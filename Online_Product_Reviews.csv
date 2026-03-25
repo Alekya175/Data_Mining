@@ -1,0 +1,501 @@
+Reviewer Name,Country,Product,Category,Rating,Review Title,Review Text,Review Date,Date of Experience,Review Count,Helpful Votes,Total Votes,Helpfulness Score,Product Price ($),Delivery Days,Review Length,Sentiment Score,Verified Purchase
+Catherine Lee,BR,Keyboard,Computers,2,Waste of money,Very disappointed with this product. Stopped working after just one week of normal use.,2024-05-20,2024-05-12,29,8,11,0.73,1018.28,9,14,-0.32,No
+Umar Khan,MX,Wireless Headphones,Audio,5,Absolutely love it!,This product is absolutely fantastic! Works exactly as described and the quality is top notch.,2024-04-21,2024-04-13,65,38,38,1.0,846.26,12,15,1.0,No
+Isabella Harris,GB,Smart Watch,Mobile,1,Complete disappointment,Extremely disappointed. The product looks nothing like the photos. Avoid at all costs.,2024-05-22,2024-04-26,1,48,53,0.91,1050.23,6,13,-1.0,Yes
+Bob Smith,FR,Monitor,Computers,1,Would not recommend,Very disappointed with this product. Stopped working after just one week of normal use.,2024-02-17,2024-02-04,13,22,33,0.67,909.55,13,14,-0.85,Yes
+Catherine Lee,US,Router,Networking,4,Amazing product!,This product is absolutely fantastic! Works exactly as described and the quality is top notch.,2024-10-09,2024-09-29,81,39,50,0.78,870.25,12,15,0.58,Yes
+Liam Robinson,GB,Monitor,Computers,1,Terrible experience,Very disappointed with this product. Stopped working after just one week of normal use.,2024-04-29,2024-04-01,13,24,32,0.75,685.58,14,14,-0.81,Yes
+Rachel Green,CA,Bluetooth Speaker,Audio,5,Exceeded my expectations,Amazing value for the price. The quality is outstanding and it arrived earlier than expected.,2024-12-25,2024-11-25,88,41,43,0.95,917.61,3,15,0.88,Yes
+Bob Smith,CA,Gaming Console,Gaming,1,Broke after a week,Terrible experience from start to finish. The product arrived damaged.,2024-11-23,2024-10-31,72,14,24,0.58,1265.85,13,10,-1.0,Yes
+Mia Walker,FR,Monitor,Computers,2,Would not recommend,Do not buy this product. It broke after just a few days of light use.,2024-05-17,2024-05-14,28,36,46,0.78,326.81,8,15,-0.49,Yes
+Mia Walker,AU,Tablet,Mobile,3,It is okay,It is an okay product. Works as expected but nothing special.,2024-10-14,2024-09-26,34,47,65,0.72,648.37,10,11,-0.08,Yes
+Vanessa Hill,DE,Smartphone,Mobile,4,Outstanding performance,This is exactly what I was looking for. Works perfectly and looks great. Very satisfied.,2024-02-16,2024-01-22,7,7,11,0.64,944.89,13,15,0.36,Yes
+Vanessa Hill,MX,Camera,Photography,1,Broke after a week,Extremely disappointed. The product looks nothing like the photos. Avoid at all costs.,2024-08-27,2024-08-10,33,35,35,1.0,1023.62,2,13,-1.0,Yes
+Isabella Harris,ES,Monitor,Computers,3,Mixed feelings,The product is decent for the price. Not the best quality but it gets the job done.,2024-05-30,2024-05-16,21,29,29,1.0,1431.19,12,17,0.11,Yes
+Rachel Green,ES,TV,Home Electronics,1,Waste of money,Terrible experience from start to finish. The product arrived damaged.,2024-11-23,2024-11-06,78,12,16,0.75,567.13,3,10,-0.99,Yes
+Catherine Lee,US,Earbuds,Audio,4,Worth every penny,This is exactly what I was looking for. Works perfectly and looks great. Very satisfied.,2024-01-10,2024-01-06,47,19,26,0.73,96.31,10,15,0.32,No
+Brian Evans,JP,Printer,Computers,4,Best purchase ever,Exceeded all my expectations. Great build quality and performs perfectly every time.,2024-03-05,2024-02-29,85,30,47,0.64,256.04,9,12,0.37,No
+Olivia Young,US,Smart Watch,Mobile,1,Save your money,This product does not match the description at all. Complete waste of money.,2024-12-31,2024-12-21,52,42,62,0.68,566.4,9,13,-0.82,Yes
+William Turner,US,Smart Watch,Mobile,5,Best purchase ever,Amazing value for the price. The quality is outstanding and it arrived earlier than expected.,2024-01-11,2023-12-23,71,14,32,0.44,338.12,2,15,1.0,Yes
+Xena Moore,BR,Laptop,Computers,2,Very disappointed,Terrible experience from start to finish. The product arrived damaged.,2024-02-06,2024-01-20,31,17,32,0.53,329.21,3,10,-0.66,No
+Olivia Young,US,Smart Watch,Mobile,4,Very satisfied,This is exactly what I was looking for. Works perfectly and looks great. Very satisfied.,2024-04-07,2024-04-03,13,42,55,0.76,537.9,7,15,0.48,Yes
+Frank Thomas,CA,Wireless Headphones,Audio,1,Broke after a week,Terrible experience from start to finish. The product arrived damaged.,2024-02-25,2024-02-17,25,12,29,0.41,678.43,7,10,-1.0,No
+Daniel Foster,CA,Smart Watch,Mobile,1,Waste of money,Do not buy this product. It broke after just a few days of light use.,2024-10-08,2024-10-04,7,41,58,0.71,1255.68,2,15,-0.84,Yes
+Isabella Harris,FR,Camera,Photography,1,Complete disappointment,Do not buy this product. It broke after just a few days of light use.,2024-04-19,2024-03-22,52,3,8,0.38,574.67,7,15,-0.93,Yes
+Bob Smith,IN,Camera,Photography,2,Save your money,Do not buy this product. It broke after just a few days of light use.,2024-03-20,2024-03-13,38,13,14,0.93,872.98,9,15,-0.49,Yes
+Brian Evans,GB,Wireless Headphones,Audio,4,5 stars!,This is exactly what I was looking for. Works perfectly and looks great. Very satisfied.,2024-09-14,2024-08-15,68,10,11,0.91,1441.56,2,15,0.37,Yes
+Catherine Lee,DE,Earbuds,Audio,5,Best purchase ever,Best product I have purchased in a long time. It works perfectly right out of the box.,2024-07-25,2024-07-21,73,15,33,0.45,895.83,10,17,1.0,Yes
+Umar Khan,IN,Router,Networking,5,Great quality product,Best product I have purchased in a long time. It works perfectly right out of the box.,2024-12-08,2024-11-15,41,15,23,0.65,599.72,11,17,1.0,No
+Isabella Harris,GB,Bluetooth Speaker,Audio,4,Best purchase ever,This product is absolutely fantastic! Works exactly as described and the quality is top notch.,2024-08-22,2024-08-02,73,6,8,0.75,811.08,9,15,0.67,Yes
+Zach Mitchell,ES,Router,Networking,1,Waste of money,This product does not match the description at all. Complete waste of money.,2024-07-08,2024-06-28,21,28,45,0.62,1058.27,10,13,-1.0,Yes
+Rachel Green,GB,Keyboard,Computers,1,Save your money,Terrible experience from start to finish. The product arrived damaged.,2024-12-05,2024-12-01,18,16,19,0.84,1335.67,12,10,-1.0,Yes
+Clara Brooks,US,Tablet,Mobile,2,Awful product,This product does not match the description at all. Complete waste of money.,2024-06-24,2024-06-17,88,40,48,0.83,763.06,5,13,-0.59,Yes
+Frank Thomas,FR,Keyboard,Computers,5,Amazing product!,Amazing value for the price. The quality is outstanding and it arrived earlier than expected.,2024-01-23,2024-01-22,43,49,53,0.92,959.3,5,15,0.94,No
+Samuel Adams,MX,TV,Home Electronics,1,Very disappointed,Very disappointed with this product. Stopped working after just one week of normal use.,2024-02-08,2024-01-10,89,9,26,0.35,63.68,6,14,-0.98,Yes
+David Brown,AU,Camera,Photography,1,Poor quality,Very disappointed with this product. Stopped working after just one week of normal use.,2024-06-06,2024-05-25,6,22,28,0.79,1026.28,11,14,-0.88,No
+Zach Mitchell,DE,Earbuds,Audio,1,Poor quality,This product does not match the description at all. Complete waste of money.,2024-03-24,2024-02-27,23,26,26,1.0,277.25,6,13,-0.81,Yes
+Liam Robinson,IN,Tablet,Mobile,5,Highly recommended,This product is absolutely fantastic! Works exactly as described and the quality is top notch.,2024-07-14,2024-06-16,5,30,37,0.81,307.36,8,15,0.88,Yes
+Mia Walker,MX,Smart Watch,Mobile,1,Very disappointed,This product does not match the description at all. Complete waste of money.,2024-07-23,2024-07-12,36,4,12,0.33,533.21,9,13,-0.87,Yes
+Xena Moore,IN,Wireless Headphones,Audio,5,Best purchase ever,Amazing value for the price. The quality is outstanding and it arrived earlier than expected.,2024-04-01,2024-03-13,34,2,5,0.4,898.89,6,15,1.0,No
+Alice Johnson,ES,Earbuds,Audio,5,Outstanding performance,This product is absolutely fantastic! Works exactly as described and the quality is top notch.,2024-07-16,2024-06-17,74,12,20,0.6,76.14,7,15,0.83,Yes
+Xena Moore,IN,Bluetooth Speaker,Audio,2,Broke after a week,Very disappointed with this product. Stopped working after just one week of normal use.,2024-12-06,2024-11-06,43,39,49,0.8,998.45,2,14,-0.65,Yes
+Mia Walker,GB,Keyboard,Computers,5,Amazing product!,Amazing value for the price. The quality is outstanding and it arrived earlier than expected.,2024-07-25,2024-07-02,38,35,39,0.9,295.84,11,15,1.0,Yes
+Olivia Young,FR,Camera,Photography,2,Save your money,Very disappointed with this product. Stopped working after just one week of normal use.,2024-06-04,2024-05-25,27,27,45,0.6,913.93,6,14,-0.67,No
+Umar Khan,JP,Keyboard,Computers,2,Not as described,Extremely disappointed. The product looks nothing like the photos. Avoid at all costs.,2024-08-30,2024-08-04,95,10,12,0.83,432.84,11,13,-0.57,Yes
+Tina Baker,US,Laptop,Computers,5,Exceeded my expectations,Amazing value for the price. The quality is outstanding and it arrived earlier than expected.,2024-04-25,2024-03-30,26,9,9,1.0,78.86,8,15,1.0,No
+Alice Johnson,US,Camera,Photography,5,5 stars!,Best product I have purchased in a long time. It works perfectly right out of the box.,2024-12-22,2024-12-09,64,25,32,0.78,229.88,12,17,0.99,No
+Olivia Young,ES,Smart Watch,Mobile,1,Poor quality,Extremely disappointed. The product looks nothing like the photos. Avoid at all costs.,2024-08-25,2024-08-23,72,15,18,0.83,690.13,13,13,-0.91,Yes
+Olivia Young,CA,Monitor,Computers,5,Very satisfied,Exceeded all my expectations. Great build quality and performs perfectly every time.,2024-09-15,2024-09-01,71,28,33,0.85,1118.05,8,12,1.0,Yes
+Henry White,CA,Printer,Computers,5,Great quality product,Exceeded all my expectations. Great build quality and performs perfectly every time.,2024-09-05,2024-08-15,31,17,31,0.55,125.45,5,12,1.0,Yes
+Noah Hall,DE,Bluetooth Speaker,Audio,4,Outstanding performance,This product is absolutely fantastic! Works exactly as described and the quality is top notch.,2024-03-11,2024-03-06,30,24,28,0.86,1062.56,2,15,0.47,Yes
+Brian Evans,BR,TV,Home Electronics,1,Complete disappointment,Do not buy this product. It broke after just a few days of light use.,2024-02-01,2024-01-25,54,24,42,0.57,1419.63,1,15,-1.0,No
+Zach Mitchell,JP,Gaming Console,Gaming,1,Very disappointed,Terrible experience from start to finish. The product arrived damaged.,2024-06-01,2024-05-07,50,26,43,0.6,1123.8,9,10,-0.95,Yes
+Mia Walker,GB,Gaming Console,Gaming,2,Not as described,Terrible experience from start to finish. The product arrived damaged.,2024-08-11,2024-07-26,4,24,34,0.71,1006.62,13,10,-0.5,No
+Umar Khan,DE,Router,Networking,5,Highly recommended,Exceeded all my expectations. Great build quality and performs perfectly every time.,2024-09-30,2024-09-29,51,37,55,0.67,997.87,2,12,0.9,Yes
+Yasmine Carter,AU,Printer,Computers,3,Acceptable for the price,It is an okay product. Works as expected but nothing special.,2024-01-26,2024-01-17,49,20,26,0.77,687.5,6,11,0.1,Yes
+Henry White,US,Monitor,Computers,1,Broke after a week,Terrible experience from start to finish. The product arrived damaged.,2024-02-11,2024-01-26,3,47,64,0.73,87.61,6,10,-1.0,Yes
+Vanessa Hill,US,Monitor,Computers,1,Very disappointed,This product does not match the description at all. Complete waste of money.,2024-04-12,2024-03-16,3,39,43,0.91,365.43,8,13,-1.0,Yes
+James Clark,US,Gaming Console,Gaming,5,Great quality product,Amazing value for the price. The quality is outstanding and it arrived earlier than expected.,2024-03-26,2024-03-06,78,47,50,0.94,1168.91,3,15,1.0,Yes
+Aisha Patel,CA,Router,Networking,4,Great quality product,Exceeded all my expectations. Great build quality and performs perfectly every time.,2024-12-12,2024-11-12,49,25,31,0.81,123.23,12,12,0.65,Yes
+Vanessa Hill,AU,Mouse,Computers,5,Great quality product,Exceeded all my expectations. Great build quality and performs perfectly every time.,2024-03-02,2024-02-05,73,50,51,0.98,527.33,7,12,0.87,Yes
+Clara Brooks,FR,TV,Home Electronics,5,Worth every penny,This product is absolutely fantastic! Works exactly as described and the quality is top notch.,2024-08-03,2024-07-07,63,6,19,0.32,1441.57,11,15,1.0,Yes
+Xena Moore,BR,Camera,Photography,5,Highly recommended,Exceeded all my expectations. Great build quality and performs perfectly every time.,2024-11-29,2024-11-20,79,34,49,0.69,702.66,14,12,1.0,Yes
+Mia Walker,IN,Bluetooth Speaker,Audio,2,Not as described,Very disappointed with this product. Stopped working after just one week of normal use.,2024-05-22,2024-04-23,58,15,29,0.52,859.08,11,14,-0.66,Yes
+William Turner,CA,Gaming Console,Gaming,1,Would not recommend,This product does not match the description at all. Complete waste of money.,2024-09-06,2024-08-30,46,16,26,0.62,426.69,10,13,-1.0,Yes
+Peter King,IT,TV,Home Electronics,5,Exceeded my expectations,This product is absolutely fantastic! Works exactly as described and the quality is top notch.,2024-05-03,2024-04-09,53,31,48,0.65,1139.67,12,15,1.0,No
+Liam Robinson,IT,Monitor,Computers,1,Very disappointed,Very disappointed with this product. Stopped working after just one week of normal use.,2024-05-30,2024-05-22,52,44,51,0.86,466.25,10,14,-1.0,Yes
+Xena Moore,GB,Camera,Photography,3,Nothing special,Mixed feelings about this one. Some features work well but others are lacking.,2024-06-29,2024-06-06,59,17,26,0.65,384.59,2,13,-0.11,Yes
+Quinn Scott,JP,Laptop,Computers,1,Save your money,This product does not match the description at all. Complete waste of money.,2024-04-08,2024-04-01,95,30,38,0.79,1089.63,13,13,-1.0,Yes
+Isabella Harris,US,Laptop,Computers,5,Exceeded my expectations,Amazing value for the price. The quality is outstanding and it arrived earlier than expected.,2024-04-26,2024-04-14,23,19,19,1.0,1064.95,3,15,0.93,Yes
+James Clark,IT,TV,Home Electronics,4,Great quality product,Best product I have purchased in a long time. It works perfectly right out of the box.,2024-11-22,2024-10-25,97,31,34,0.91,1310.35,10,17,0.58,No
+Samuel Adams,US,Gaming Console,Gaming,2,Would not recommend,This product does not match the description at all. Complete waste of money.,2024-01-27,2024-01-18,62,7,9,0.78,607.05,2,13,-0.31,Yes
+Tina Baker,CA,Smartphone,Mobile,5,5 stars!,Amazing value for the price. The quality is outstanding and it arrived earlier than expected.,2024-02-13,2024-02-05,16,35,48,0.73,913.41,13,15,0.9,No
+David Brown,GB,Gaming Console,Gaming,3,Acceptable for the price,Mixed feelings about this one. Some features work well but others are lacking.,2024-10-28,2024-10-14,40,36,55,0.65,99.74,12,13,-0.08,Yes
+William Turner,JP,Tablet,Mobile,1,Waste of money,This product does not match the description at all. Complete waste of money.,2024-05-02,2024-04-26,71,4,9,0.44,13.99,8,13,-1.0,No
+Daniel Foster,CA,Tablet,Mobile,4,Absolutely love it!,Best product I have purchased in a long time. It works perfectly right out of the box.,2024-05-27,2024-05-04,37,44,58,0.76,116.06,4,17,0.5,Yes
+Zach Mitchell,IN,Camera,Photography,1,Waste of money,Extremely disappointed. The product looks nothing like the photos. Avoid at all costs.,2024-04-25,2024-04-04,20,17,21,0.81,116.4,3,13,-1.0,Yes
+Olivia Young,US,Gaming Console,Gaming,5,Best purchase ever,This is exactly what I was looking for. Works perfectly and looks great. Very satisfied.,2024-12-18,2024-12-08,90,25,33,0.76,755.7,8,15,0.9,Yes
+Brian Evans,BR,Router,Networking,1,Broke after a week,Terrible experience from start to finish. The product arrived damaged.,2024-11-05,2024-10-27,4,5,12,0.42,1443.25,14,10,-1.0,Yes
+Daniel Foster,CA,Monitor,Computers,5,Great quality product,Exceeded all my expectations. Great build quality and performs perfectly every time.,2024-01-21,2023-12-27,97,11,26,0.42,783.26,8,12,0.9,Yes
+Brian Evans,GB,Earbuds,Audio,4,Amazing product!,This is exactly what I was looking for. Works perfectly and looks great. Very satisfied.,2024-02-16,2024-01-31,45,26,36,0.72,488.38,2,15,0.6,Yes
+Isabella Harris,IN,Camera,Photography,1,Complete disappointment,Terrible experience from start to finish. The product arrived damaged.,2024-12-05,2024-11-22,98,35,36,0.97,687.69,6,10,-0.91,Yes
+Liam Robinson,JP,Monitor,Computers,2,Broke after a week,Extremely disappointed. The product looks nothing like the photos. Avoid at all costs.,2024-01-01,2023-12-10,70,29,42,0.69,90.76,9,13,-0.45,No
+Peter King,US,Keyboard,Computers,4,Very satisfied,This product is absolutely fantastic! Works exactly as described and the quality is top notch.,2024-04-14,2024-04-05,71,8,17,0.47,662.79,12,15,0.51,Yes
+Henry White,US,Keyboard,Computers,1,Awful product,This product does not match the description at all. Complete waste of money.,2024-12-29,2024-12-23,40,35,35,1.0,832.85,2,13,-0.87,No
+Henry White,FR,Laptop,Computers,2,Poor quality,Do not buy this product. It broke after just a few days of light use.,2024-05-29,2024-05-12,91,17,30,0.57,1253.74,8,15,-0.63,Yes
+Noah Hall,IN,Camera,Photography,1,Not as described,Extremely disappointed. The product looks nothing like the photos. Avoid at all costs.,2024-09-17,2024-08-24,18,4,12,0.33,1161.29,14,13,-0.96,Yes
+Rachel Green,IT,Printer,Computers,4,Absolutely love it!,Amazing value for the price. The quality is outstanding and it arrived earlier than expected.,2024-06-01,2024-05-05,76,37,52,0.71,1299.24,8,15,0.31,Yes
+Brian Evans,DE,Bluetooth Speaker,Audio,4,Outstanding performance,Exceeded all my expectations. Great build quality and performs perfectly every time.,2024-07-12,2024-06-27,42,12,19,0.63,861.98,4,12,0.39,Yes
+Quinn Scott,BR,Bluetooth Speaker,Audio,4,Very satisfied,This is exactly what I was looking for. Works perfectly and looks great. Very satisfied.,2024-07-16,2024-06-24,84,9,24,0.38,1447.59,3,15,0.37,Yes
+Emma Wilson,US,Printer,Computers,4,Best purchase ever,This is exactly what I was looking for. Works perfectly and looks great. Very satisfied.,2024-02-21,2024-02-04,59,0,4,0.0,620.87,11,15,0.45,No
+Vanessa Hill,MX,Monitor,Computers,5,Great quality product,Amazing value for the price. The quality is outstanding and it arrived earlier than expected.,2024-11-15,2024-10-23,51,41,43,0.95,1279.13,14,15,0.86,No
+Henry White,US,Bluetooth Speaker,Audio,2,Complete disappointment,Extremely disappointed. The product looks nothing like the photos. Avoid at all costs.,2024-01-19,2023-12-30,9,15,35,0.43,1029.76,5,13,-0.65,No
+James Clark,AU,Laptop,Computers,5,Best purchase ever,This is exactly what I was looking for. Works perfectly and looks great. Very satisfied.,2024-03-26,2024-03-03,39,1,2,0.5,493.32,1,15,1.0,Yes
+Tina Baker,AU,Camera,Photography,1,Poor quality,This product does not match the description at all. Complete waste of money.,2024-09-28,2024-09-14,73,43,48,0.9,263.28,2,13,-0.94,Yes
+Clara Brooks,FR,Gaming Console,Gaming,5,5 stars!,Best product I have purchased in a long time. It works perfectly right out of the box.,2024-04-28,2024-04-13,82,16,30,0.53,390.44,1,17,1.0,Yes
+William Turner,CA,Keyboard,Computers,4,Outstanding performance,Best product I have purchased in a long time. It works perfectly right out of the box.,2024-02-07,2024-01-23,45,37,46,0.8,962.02,7,17,0.4,No
+Samuel Adams,IN,Printer,Computers,1,Terrible experience,This product does not match the description at all. Complete waste of money.,2024-07-15,2024-06-17,62,6,13,0.46,578.23,6,13,-0.84,Yes
+Peter King,IN,Wireless Headphones,Audio,5,Amazing product!,Amazing value for the price. The quality is outstanding and it arrived earlier than expected.,2024-01-05,2023-12-17,88,49,50,0.98,1366.82,12,15,1.0,Yes
+Umar Khan,US,Earbuds,Audio,2,Would not recommend,This product does not match the description at all. Complete waste of money.,2024-11-21,2024-11-14,80,16,20,0.8,946.09,11,13,-0.56,Yes
+Xena Moore,DE,Monitor,Computers,5,Very satisfied,This product is absolutely fantastic! Works exactly as described and the quality is top notch.,2024-10-23,2024-10-11,94,8,10,0.8,1365.35,6,15,1.0,Yes
+Peter King,IN,Smart Watch,Mobile,5,Highly recommended,Exceeded all my expectations. Great build quality and performs perfectly every time.,2024-07-06,2024-06-19,65,17,22,0.77,392.89,14,12,1.0,Yes
+Rachel Green,AU,Monitor,Computers,4,Best purchase ever,This is exactly what I was looking for. Works perfectly and looks great. Very satisfied.,2024-02-08,2024-02-03,97,14,26,0.54,1451.23,13,15,0.33,Yes
+Isabella Harris,BR,Monitor,Computers,1,Broke after a week,Very disappointed with this product. Stopped working after just one week of normal use.,2024-05-15,2024-04-27,16,29,40,0.72,1012.51,11,14,-0.84,No
+Karen Lewis,JP,Printer,Computers,4,Worth every penny,This product is absolutely fantastic! Works exactly as described and the quality is top notch.,2024-12-11,2024-12-03,61,1,20,0.05,1327.51,9,15,0.3,Yes
+James Clark,IT,Keyboard,Computers,1,Waste of money,Do not buy this product. It broke after just a few days of light use.,2024-12-24,2024-12-14,84,26,29,0.9,218.27,1,15,-0.93,Yes
+Xena Moore,GB,Laptop,Computers,1,Not as described,Extremely disappointed. The product looks nothing like the photos. Avoid at all costs.,2024-03-10,2024-02-26,59,23,40,0.57,634.5,12,13,-1.0,No
+Henry White,AU,Keyboard,Computers,4,Best purchase ever,This is exactly what I was looking for. Works perfectly and looks great. Very satisfied.,2024-11-11,2024-10-28,36,2,13,0.15,333.73,8,15,0.58,Yes
+Brian Evans,FR,Keyboard,Computers,4,Worth every penny,Exceeded all my expectations. Great build quality and performs perfectly every time.,2024-11-26,2024-11-14,8,25,33,0.76,292.81,2,12,0.39,Yes
+Catherine Lee,MX,Keyboard,Computers,5,Exceeded my expectations,Exceeded all my expectations. Great build quality and performs perfectly every time.,2024-01-11,2024-01-09,43,15,19,0.79,1182.6,4,12,0.89,Yes
+Emma Wilson,GB,Earbuds,Audio,2,Not as described,This product does not match the description at all. Complete waste of money.,2024-06-17,2024-05-23,19,50,69,0.72,14.22,14,13,-0.4,Yes
+Henry White,BR,Monitor,Computers,4,Highly recommended,This product is absolutely fantastic! Works exactly as described and the quality is top notch.,2024-12-04,2024-11-06,4,8,8,1.0,543.78,13,15,0.64,Yes
+Peter King,FR,Wireless Headphones,Audio,4,Highly recommended,Amazing value for the price. The quality is outstanding and it arrived earlier than expected.,2024-01-27,2024-01-22,95,26,42,0.62,179.34,2,15,0.53,Yes
+Vanessa Hill,ES,TV,Home Electronics,1,Awful product,Very disappointed with this product. Stopped working after just one week of normal use.,2024-08-19,2024-08-02,29,39,40,0.97,1093.59,14,14,-1.0,Yes
+Catherine Lee,US,Gaming Console,Gaming,1,Very disappointed,Very disappointed with this product. Stopped working after just one week of normal use.,2024-09-02,2024-08-05,52,27,30,0.9,740.5,8,14,-1.0,Yes
+Mia Walker,JP,Earbuds,Audio,5,Highly recommended,This product is absolutely fantastic! Works exactly as described and the quality is top notch.,2024-03-05,2024-02-25,80,40,58,0.69,827.05,6,15,0.96,Yes
+Rachel Green,GB,Gaming Console,Gaming,5,Outstanding performance,Exceeded all my expectations. Great build quality and performs perfectly every time.,2024-08-08,2024-08-04,90,7,27,0.26,979.87,13,12,1.0,No
+Noah Hall,IN,Gaming Console,Gaming,5,Exceeded my expectations,This is exactly what I was looking for. Works perfectly and looks great. Very satisfied.,2024-06-22,2024-05-26,59,25,38,0.66,1097.12,6,15,1.0,Yes
+Liam Robinson,GB,Bluetooth Speaker,Audio,4,Highly recommended,This is exactly what I was looking for. Works perfectly and looks great. Very satisfied.,2024-02-04,2024-02-01,11,5,18,0.28,153.88,12,15,0.5,Yes
+Noah Hall,US,Earbuds,Audio,1,Save your money,Extremely disappointed. The product looks nothing like the photos. Avoid at all costs.,2024-06-17,2024-05-26,16,26,37,0.7,1311.67,13,13,-0.91,Yes
+Brian Evans,US,Earbuds,Audio,1,Terrible experience,Terrible experience from start to finish. The product arrived damaged.,2024-02-23,2024-02-04,65,13,17,0.76,988.54,4,10,-1.0,Yes
+Rachel Green,JP,Printer,Computers,4,Outstanding performance,Amazing value for the price. The quality is outstanding and it arrived earlier than expected.,2024-02-28,2024-02-03,36,36,43,0.84,1212.76,14,15,0.37,Yes
+Alice Johnson,GB,Earbuds,Audio,5,Great quality product,This product is absolutely fantastic! Works exactly as described and the quality is top notch.,2024-04-02,2024-03-24,90,48,57,0.84,1383.09,6,15,1.0,Yes
+Mia Walker,DE,Earbuds,Audio,5,Amazing product!,This product is absolutely fantastic! Works exactly as described and the quality is top notch.,2024-03-13,2024-02-18,82,1,3,0.33,1121.71,4,15,0.95,No
+Emma Wilson,GB,Bluetooth Speaker,Audio,1,Poor quality,Terrible experience from start to finish. The product arrived damaged.,2024-06-08,2024-05-15,42,49,67,0.73,898.37,1,10,-0.83,Yes
+Grace Martin,ES,Keyboard,Computers,3,Average quality,Mixed feelings about this one. Some features work well but others are lacking.,2024-08-14,2024-07-23,55,31,50,0.62,668.65,5,13,0.19,Yes
+Bob Smith,CA,Bluetooth Speaker,Audio,5,Amazing product!,This product is absolutely fantastic! Works exactly as described and the quality is top notch.,2024-05-25,2024-05-03,87,37,52,0.71,795.13,5,15,1.0,No
+Karen Lewis,US,Earbuds,Audio,1,Very disappointed,Very disappointed with this product. Stopped working after just one week of normal use.,2024-04-14,2024-04-04,28,49,53,0.92,1148.6,5,14,-1.0,Yes
+Vanessa Hill,AU,Gaming Console,Gaming,5,Amazing product!,Best product I have purchased in a long time. It works perfectly right out of the box.,2024-03-07,2024-02-23,69,45,52,0.87,755.39,14,17,0.93,Yes
+William Turner,DE,Camera,Photography,1,Very disappointed,Do not buy this product. It broke after just a few days of light use.,2024-01-10,2023-12-26,10,20,38,0.53,649.63,7,15,-0.98,Yes
+David Brown,CA,Laptop,Computers,5,Amazing product!,This product is absolutely fantastic! Works exactly as described and the quality is top notch.,2024-06-15,2024-06-09,80,29,40,0.72,141.31,14,15,1.0,No
+Frank Thomas,US,Earbuds,Audio,4,Amazing product!,Exceeded all my expectations. Great build quality and performs perfectly every time.,2024-02-10,2024-01-28,40,47,57,0.82,340.14,13,12,0.34,Yes
+Isabella Harris,GB,TV,Home Electronics,4,Outstanding performance,Best product I have purchased in a long time. It works perfectly right out of the box.,2024-06-27,2024-06-15,94,41,45,0.91,362.04,3,17,0.7,Yes
+Samuel Adams,FR,Earbuds,Audio,1,Poor quality,Very disappointed with this product. Stopped working after just one week of normal use.,2024-03-31,2024-03-06,81,31,45,0.69,1134.12,13,14,-0.99,Yes
+Samuel Adams,US,Printer,Computers,5,Worth every penny,Best product I have purchased in a long time. It works perfectly right out of the box.,2024-08-13,2024-08-10,61,28,48,0.58,461.2,5,17,1.0,Yes
+Umar Khan,US,TV,Home Electronics,4,Best purchase ever,Amazing value for the price. The quality is outstanding and it arrived earlier than expected.,2024-08-24,2024-08-09,5,3,14,0.21,1249.23,2,15,0.58,No
+Quinn Scott,GB,Gaming Console,Gaming,2,Awful product,Extremely disappointed. The product looks nothing like the photos. Avoid at all costs.,2024-01-22,2024-01-07,74,41,47,0.87,489.07,8,13,-0.58,Yes
+Olivia Young,FR,Gaming Console,Gaming,5,Best purchase ever,Amazing value for the price. The quality is outstanding and it arrived earlier than expected.,2024-12-31,2024-12-28,65,41,46,0.89,68.32,12,15,1.0,Yes
+Umar Khan,IN,Bluetooth Speaker,Audio,5,Worth every penny,Amazing value for the price. The quality is outstanding and it arrived earlier than expected.,2024-07-17,2024-07-03,100,21,40,0.53,88.02,11,15,1.0,Yes
+Catherine Lee,BR,Bluetooth Speaker,Audio,4,Best purchase ever,Exceeded all my expectations. Great build quality and performs perfectly every time.,2024-12-13,2024-11-30,37,16,35,0.46,1311.19,6,12,0.5,Yes
+James Clark,MX,Router,Networking,5,Worth every penny,Amazing value for the price. The quality is outstanding and it arrived earlier than expected.,2024-12-01,2024-11-08,85,25,29,0.86,896.61,2,15,1.0,No
+Noah Hall,ES,Keyboard,Computers,5,Worth every penny,Best product I have purchased in a long time. It works perfectly right out of the box.,2024-12-09,2024-11-16,95,43,59,0.73,149.24,11,17,1.0,Yes
+Emma Wilson,US,Wireless Headphones,Audio,5,Worth every penny,Amazing value for the price. The quality is outstanding and it arrived earlier than expected.,2024-04-02,2024-03-26,44,49,64,0.77,296.09,3,15,0.94,Yes
+Tina Baker,GB,Printer,Computers,2,Waste of money,Extremely disappointed. The product looks nothing like the photos. Avoid at all costs.,2024-10-03,2024-09-06,95,33,34,0.97,996.27,13,13,-0.66,No
+Vanessa Hill,CA,Smartphone,Mobile,4,Highly recommended,Best product I have purchased in a long time. It works perfectly right out of the box.,2024-12-20,2024-11-25,80,10,24,0.42,75.1,6,17,0.31,No
+Liam Robinson,BR,Earbuds,Audio,3,Not bad but not great,The product arrived on time and works as described. Build quality is average.,2024-04-29,2024-04-11,31,19,34,0.56,1356.92,4,13,0.02,No
+Brian Evans,CA,Gaming Console,Gaming,1,Terrible experience,Do not buy this product. It broke after just a few days of light use.,2024-09-14,2024-08-28,54,10,16,0.62,1203.88,3,15,-0.96,Yes
+Catherine Lee,GB,Keyboard,Computers,1,Complete disappointment,Terrible experience from start to finish. The product arrived damaged.,2024-10-10,2024-09-10,14,45,61,0.74,1278.24,5,10,-1.0,Yes
+Bob Smith,AU,Gaming Console,Gaming,5,Outstanding performance,Best product I have purchased in a long time. It works perfectly right out of the box.,2024-08-11,2024-08-08,29,28,39,0.72,1396.4,7,17,0.94,Yes
+Karen Lewis,GB,Smart Watch,Mobile,1,Broke after a week,Very disappointed with this product. Stopped working after just one week of normal use.,2024-07-10,2024-07-02,4,20,23,0.87,1260.37,11,14,-0.99,Yes
+Clara Brooks,US,Wireless Headphones,Audio,5,Great quality product,This is exactly what I was looking for. Works perfectly and looks great. Very satisfied.,2024-12-22,2024-11-25,18,48,63,0.76,678.42,1,15,0.89,Yes
+Henry White,IN,Tablet,Mobile,4,Exceeded my expectations,Best product I have purchased in a long time. It works perfectly right out of the box.,2024-10-07,2024-09-13,78,33,46,0.72,175.67,5,17,0.33,Yes
+Tina Baker,MX,Wireless Headphones,Audio,1,Not as described,Do not buy this product. It broke after just a few days of light use.,2024-11-23,2024-10-28,80,29,31,0.94,175.18,8,15,-0.99,Yes
+Henry White,BR,Keyboard,Computers,4,Outstanding performance,Exceeded all my expectations. Great build quality and performs perfectly every time.,2024-05-03,2024-04-10,19,18,31,0.58,12.33,6,12,0.55,No
+Rachel Green,US,Smartphone,Mobile,5,Best purchase ever,Exceeded all my expectations. Great build quality and performs perfectly every time.,2024-07-03,2024-06-30,68,34,50,0.68,1181.75,9,12,1.0,No
+Liam Robinson,CA,Printer,Computers,4,Very satisfied,This product is absolutely fantastic! Works exactly as described and the quality is top notch.,2024-11-21,2024-11-08,48,16,16,1.0,542.07,2,15,0.43,Yes
+Aisha Patel,FR,Monitor,Computers,5,5 stars!,Amazing value for the price. The quality is outstanding and it arrived earlier than expected.,2024-03-09,2024-03-07,46,34,44,0.77,1222.13,3,15,0.91,No
+Zach Mitchell,GB,Keyboard,Computers,3,It is okay,It is an okay product. Works as expected but nothing special.,2024-02-02,2024-01-10,100,29,30,0.97,447.23,1,11,-0.17,Yes
+Grace Martin,IN,Bluetooth Speaker,Audio,1,Terrible experience,Extremely disappointed. The product looks nothing like the photos. Avoid at all costs.,2024-07-22,2024-06-25,70,30,38,0.79,64.56,11,13,-0.81,Yes
+Karen Lewis,GB,Printer,Computers,5,Absolutely love it!,Amazing value for the price. The quality is outstanding and it arrived earlier than expected.,2024-05-19,2024-05-15,48,27,39,0.69,1117.53,7,15,1.0,No
+Aisha Patel,GB,Mouse,Computers,3,Acceptable for the price,Mixed feelings about this one. Some features work well but others are lacking.,2024-09-22,2024-09-13,11,46,59,0.78,127.6,10,13,-0.13,Yes
+Frank Thomas,FR,Bluetooth Speaker,Audio,1,Waste of money,Very disappointed with this product. Stopped working after just one week of normal use.,2024-06-16,2024-05-25,38,19,33,0.58,907.91,7,14,-1.0,Yes
+Mia Walker,AU,Gaming Console,Gaming,4,Absolutely love it!,Amazing value for the price. The quality is outstanding and it arrived earlier than expected.,2024-11-10,2024-10-27,36,40,41,0.98,121.81,11,15,0.59,Yes
+Umar Khan,AU,Wireless Headphones,Audio,4,Highly recommended,Exceeded all my expectations. Great build quality and performs perfectly every time.,2024-12-13,2024-11-17,57,2,6,0.33,110.18,13,12,0.41,Yes
+Catherine Lee,BR,Camera,Photography,5,5 stars!,This product is absolutely fantastic! Works exactly as described and the quality is top notch.,2024-11-05,2024-10-31,87,28,39,0.72,564.3,13,15,1.0,Yes
+Peter King,ES,TV,Home Electronics,4,Worth every penny,This is exactly what I was looking for. Works perfectly and looks great. Very satisfied.,2024-06-09,2024-05-19,36,15,18,0.83,48.61,3,15,0.54,No
+James Clark,IT,Router,Networking,3,Nothing special,The product is decent for the price. Not the best quality but it gets the job done.,2024-05-14,2024-04-19,34,45,59,0.76,329.71,10,17,-0.1,Yes
+Karen Lewis,AU,Laptop,Computers,2,Poor quality,Very disappointed with this product. Stopped working after just one week of normal use.,2024-08-19,2024-08-13,92,28,30,0.93,1217.66,14,14,-0.4,Yes
+Quinn Scott,CA,TV,Home Electronics,1,Save your money,Terrible experience from start to finish. The product arrived damaged.,2024-06-02,2024-05-05,21,45,65,0.69,269.4,6,10,-1.0,Yes
+Rachel Green,GB,Smart Watch,Mobile,1,Poor quality,This product does not match the description at all. Complete waste of money.,2024-09-09,2024-09-08,47,35,53,0.66,559.68,13,13,-1.0,Yes
+Emma Wilson,IN,Laptop,Computers,5,Great quality product,This is exactly what I was looking for. Works perfectly and looks great. Very satisfied.,2024-09-02,2024-08-16,53,49,62,0.79,1236.78,2,15,1.0,Yes
+Emma Wilson,DE,Gaming Console,Gaming,3,Acceptable for the price,Not bad overall. Does what it says it will do but the quality could be improved.,2024-06-25,2024-06-20,100,35,55,0.64,885.8,13,16,-0.16,Yes
+Liam Robinson,ES,Printer,Computers,3,Average quality,Not bad overall. Does what it says it will do but the quality could be improved.,2024-03-19,2024-03-09,22,10,20,0.5,1402.76,4,16,-0.01,Yes
+Rachel Green,US,Printer,Computers,1,Waste of money,Terrible experience from start to finish. The product arrived damaged.,2024-04-10,2024-03-20,71,17,21,0.81,941.28,10,10,-1.0,Yes
+Bob Smith,US,Earbuds,Audio,2,Awful product,This product does not match the description at all. Complete waste of money.,2024-03-28,2024-03-06,80,46,65,0.71,513.05,10,13,-0.45,Yes
+Peter King,MX,Wireless Headphones,Audio,4,5 stars!,Amazing value for the price. The quality is outstanding and it arrived earlier than expected.,2024-11-29,2024-11-22,99,36,49,0.73,930.98,1,15,0.32,Yes
+Bob Smith,GB,Keyboard,Computers,2,Terrible experience,Do not buy this product. It broke after just a few days of light use.,2024-05-05,2024-04-09,88,25,34,0.74,685.78,12,15,-0.45,No
+Xena Moore,AU,Camera,Photography,4,Very satisfied,This is exactly what I was looking for. Works perfectly and looks great. Very satisfied.,2024-04-14,2024-04-03,78,9,19,0.47,1293.61,6,15,0.64,No
+Henry White,GB,Smartphone,Mobile,4,Worth every penny,Exceeded all my expectations. Great build quality and performs perfectly every time.,2024-10-14,2024-10-10,41,15,29,0.52,192.56,8,12,0.37,Yes
+Karen Lewis,GB,Wireless Headphones,Audio,1,Terrible experience,Do not buy this product. It broke after just a few days of light use.,2024-11-11,2024-10-28,32,10,20,0.5,1401.29,12,15,-0.94,Yes
+Quinn Scott,FR,Gaming Console,Gaming,1,Save your money,Do not buy this product. It broke after just a few days of light use.,2024-09-12,2024-08-14,40,31,31,1.0,144.17,7,15,-0.97,Yes
+Vanessa Hill,IT,Smart Watch,Mobile,5,5 stars!,Amazing value for the price. The quality is outstanding and it arrived earlier than expected.,2024-01-25,2024-01-23,37,31,50,0.62,1324.69,11,15,1.0,Yes
+Bob Smith,AU,TV,Home Electronics,2,Very disappointed,Very disappointed with this product. Stopped working after just one week of normal use.,2024-08-08,2024-08-03,34,46,57,0.81,1148.15,6,14,-0.44,Yes
+Rachel Green,CA,Earbuds,Audio,3,Nothing special,It is an okay product. Works as expected but nothing special.,2024-07-04,2024-06-16,37,4,16,0.25,761.34,13,11,0.02,Yes
+Tina Baker,ES,Smartphone,Mobile,5,Best purchase ever,This is exactly what I was looking for. Works perfectly and looks great. Very satisfied.,2024-07-10,2024-06-14,44,35,46,0.76,1134.9,4,15,0.95,No
+Tina Baker,ES,TV,Home Electronics,5,Absolutely love it!,This product is absolutely fantastic! Works exactly as described and the quality is top notch.,2024-01-20,2024-01-15,92,21,36,0.58,783.81,3,15,1.0,Yes
+Aisha Patel,ES,Bluetooth Speaker,Audio,1,Awful product,Terrible experience from start to finish. The product arrived damaged.,2024-03-24,2024-03-11,79,47,56,0.84,894.65,9,10,-1.0,No
+Samuel Adams,IN,Mouse,Computers,1,Awful product,Terrible experience from start to finish. The product arrived damaged.,2024-08-31,2024-08-04,3,23,33,0.7,1013.97,7,10,-1.0,Yes
+Samuel Adams,IT,Earbuds,Audio,1,Complete disappointment,Terrible experience from start to finish. The product arrived damaged.,2024-12-01,2024-11-05,100,37,55,0.67,349.04,1,10,-0.93,Yes
+David Brown,GB,TV,Home Electronics,1,Awful product,Do not buy this product. It broke after just a few days of light use.,2024-03-16,2024-02-18,88,15,16,0.94,863.13,12,15,-1.0,Yes
+Daniel Foster,IT,Gaming Console,Gaming,5,Worth every penny,This is exactly what I was looking for. Works perfectly and looks great. Very satisfied.,2024-03-18,2024-03-04,89,13,26,0.5,757.71,10,15,0.81,Yes
+Frank Thomas,FR,Mouse,Computers,5,Highly recommended,Exceeded all my expectations. Great build quality and performs perfectly every time.,2024-04-16,2024-03-29,42,42,57,0.74,792.96,6,12,0.91,Yes
+James Clark,IN,TV,Home Electronics,1,Would not recommend,Terrible experience from start to finish. The product arrived damaged.,2024-11-08,2024-10-23,25,15,23,0.65,841.55,4,10,-0.92,Yes
+Vanessa Hill,MX,Mouse,Computers,4,Very satisfied,Amazing value for the price. The quality is outstanding and it arrived earlier than expected.,2024-09-02,2024-08-21,72,50,58,0.86,438.81,10,15,0.65,No
+Umar Khan,CA,Router,Networking,5,Amazing product!,Amazing value for the price. The quality is outstanding and it arrived earlier than expected.,2024-03-15,2024-03-05,6,18,20,0.9,526.08,8,15,1.0,No
+Xena Moore,BR,Smart Watch,Mobile,1,Not as described,Extremely disappointed. The product looks nothing like the photos. Avoid at all costs.,2024-05-18,2024-04-18,72,44,52,0.85,214.54,10,13,-1.0,Yes
+Peter King,US,Smart Watch,Mobile,5,Absolutely love it!,Exceeded all my expectations. Great build quality and performs perfectly every time.,2024-04-25,2024-04-04,30,3,6,0.5,625.82,12,12,1.0,Yes
+Karen Lewis,IN,Wireless Headphones,Audio,5,Outstanding performance,Best product I have purchased in a long time. It works perfectly right out of the box.,2024-07-27,2024-07-06,61,30,50,0.6,307.19,5,17,0.97,Yes
+Noah Hall,GB,Router,Networking,2,Waste of money,Extremely disappointed. The product looks nothing like the photos. Avoid at all costs.,2024-04-28,2024-04-10,95,46,47,0.98,1370.71,3,13,-0.39,Yes
+Tina Baker,US,Printer,Computers,2,Broke after a week,Do not buy this product. It broke after just a few days of light use.,2024-04-05,2024-03-06,96,18,19,0.95,23.81,10,15,-0.33,Yes
+David Brown,IN,Tablet,Mobile,5,Very satisfied,Exceeded all my expectations. Great build quality and performs perfectly every time.,2024-09-25,2024-09-09,18,32,46,0.7,416.53,13,12,0.97,Yes
+Grace Martin,GB,Mouse,Computers,5,Very satisfied,Amazing value for the price. The quality is outstanding and it arrived earlier than expected.,2024-04-05,2024-04-04,95,21,30,0.7,855.99,13,15,1.0,No
+Peter King,IN,Printer,Computers,1,Broke after a week,Extremely disappointed. The product looks nothing like the photos. Avoid at all costs.,2024-06-16,2024-06-13,52,42,45,0.93,285.32,3,13,-0.84,Yes
+Samuel Adams,US,Wireless Headphones,Audio,4,Great quality product,This is exactly what I was looking for. Works perfectly and looks great. Very satisfied.,2024-04-30,2024-04-15,97,17,27,0.63,459.9,12,15,0.63,Yes
+Quinn Scott,IN,Keyboard,Computers,2,Would not recommend,This product does not match the description at all. Complete waste of money.,2024-02-01,2024-01-10,16,29,38,0.76,247.98,11,13,-0.34,Yes
+Tina Baker,AU,Keyboard,Computers,2,Terrible experience,Terrible experience from start to finish. The product arrived damaged.,2024-11-10,2024-11-02,29,8,23,0.35,238.25,12,10,-0.7,No
+Brian Evans,US,Mouse,Computers,5,Outstanding performance,This is exactly what I was looking for. Works perfectly and looks great. Very satisfied.,2024-10-02,2024-09-06,86,13,20,0.65,1023.71,10,15,0.84,No
+Emma Wilson,GB,TV,Home Electronics,2,Would not recommend,Very disappointed with this product. Stopped working after just one week of normal use.,2024-10-15,2024-10-11,8,35,51,0.69,311.21,9,14,-0.32,Yes
+Olivia Young,US,Printer,Computers,5,Outstanding performance,This is exactly what I was looking for. Works perfectly and looks great. Very satisfied.,2024-02-29,2024-02-07,27,45,63,0.71,738.35,9,15,1.0,No
+Xena Moore,US,Smartphone,Mobile,4,Outstanding performance,This is exactly what I was looking for. Works perfectly and looks great. Very satisfied.,2024-08-21,2024-08-02,8,35,49,0.71,1012.42,5,15,0.48,No
+Bob Smith,US,Tablet,Mobile,1,Very disappointed,This product does not match the description at all. Complete waste of money.,2024-10-23,2024-10-20,6,27,38,0.71,1053.57,9,13,-1.0,No
+Noah Hall,AU,Wireless Headphones,Audio,4,Great quality product,This is exactly what I was looking for. Works perfectly and looks great. Very satisfied.,2024-04-02,2024-03-08,18,49,69,0.71,1467.72,11,15,0.6,No
+David Brown,GB,Gaming Console,Gaming,5,Amazing product!,This is exactly what I was looking for. Works perfectly and looks great. Very satisfied.,2024-02-11,2024-01-20,85,34,38,0.89,983.77,6,15,1.0,No
+Noah Hall,MX,TV,Home Electronics,1,Poor quality,This product does not match the description at all. Complete waste of money.,2024-01-02,2023-12-08,3,19,33,0.58,1013.51,9,13,-1.0,No
+Yasmine Carter,US,Printer,Computers,1,Not as described,This product does not match the description at all. Complete waste of money.,2024-08-23,2024-08-11,20,17,23,0.74,1406.74,12,13,-0.98,Yes
+Tina Baker,US,Monitor,Computers,3,Could be better,Not bad overall. Does what it says it will do but the quality could be improved.,2024-01-09,2024-01-01,27,4,7,0.57,894.98,8,16,0.16,Yes
+Henry White,BR,Mouse,Computers,2,Very disappointed,Do not buy this product. It broke after just a few days of light use.,2024-08-12,2024-08-04,70,13,14,0.93,218.8,5,15,-0.65,Yes
+Isabella Harris,US,Earbuds,Audio,1,Awful product,Terrible experience from start to finish. The product arrived damaged.,2024-05-01,2024-04-21,19,42,58,0.72,339.35,5,10,-0.9,Yes
+William Turner,DE,Keyboard,Computers,4,Amazing product!,Exceeded all my expectations. Great build quality and performs perfectly every time.,2024-09-10,2024-09-08,45,41,53,0.77,1180.85,6,12,0.34,No
+Brian Evans,GB,Smartphone,Mobile,1,Terrible experience,Do not buy this product. It broke after just a few days of light use.,2024-04-04,2024-03-10,69,30,37,0.81,1275.52,5,15,-0.92,No
+Grace Martin,IN,Router,Networking,1,Very disappointed,Extremely disappointed. The product looks nothing like the photos. Avoid at all costs.,2024-07-30,2024-07-16,72,33,37,0.89,588.74,5,13,-0.87,Yes
+Tina Baker,JP,Router,Networking,5,Very satisfied,Amazing value for the price. The quality is outstanding and it arrived earlier than expected.,2024-02-17,2024-01-30,93,12,13,0.92,410.01,11,15,0.83,Yes
+Daniel Foster,IN,Printer,Computers,1,Waste of money,This product does not match the description at all. Complete waste of money.,2024-10-27,2024-10-03,86,35,41,0.85,724.3,14,13,-0.81,Yes
+Tina Baker,GB,Router,Networking,2,Very disappointed,This product does not match the description at all. Complete waste of money.,2024-04-07,2024-03-14,16,47,62,0.76,1372.52,12,13,-0.55,No
+James Clark,CA,Router,Networking,5,Exceeded my expectations,Exceeded all my expectations. Great build quality and performs perfectly every time.,2024-06-13,2024-05-19,37,24,38,0.63,805.14,6,12,1.0,Yes
+Karen Lewis,DE,TV,Home Electronics,5,Very satisfied,This is exactly what I was looking for. Works perfectly and looks great. Very satisfied.,2024-02-20,2024-01-25,93,30,40,0.75,1372.35,6,15,1.0,Yes
+Emma Wilson,GB,Earbuds,Audio,2,Not as described,This product does not match the description at all. Complete waste of money.,2024-01-09,2023-12-31,71,37,55,0.67,1082.82,5,13,-0.67,Yes
+Peter King,IT,Smart Watch,Mobile,5,Amazing product!,Exceeded all my expectations. Great build quality and performs perfectly every time.,2024-05-05,2024-04-19,71,41,51,0.8,393.42,14,12,1.0,No
+Umar Khan,US,Smartphone,Mobile,3,Mixed feelings,It is an okay product. Works as expected but nothing special.,2024-03-12,2024-02-17,70,31,36,0.86,1376.18,9,11,0.16,Yes
+Alice Johnson,GB,Printer,Computers,1,Waste of money,Very disappointed with this product. Stopped working after just one week of normal use.,2024-01-04,2023-12-21,18,40,47,0.85,111.27,3,14,-1.0,No
+Rachel Green,DE,Bluetooth Speaker,Audio,1,Very disappointed,Extremely disappointed. The product looks nothing like the photos. Avoid at all costs.,2024-11-22,2024-10-31,79,30,45,0.67,33.44,9,13,-1.0,Yes
+David Brown,US,Wireless Headphones,Audio,1,Save your money,Terrible experience from start to finish. The product arrived damaged.,2024-10-01,2024-09-21,3,32,45,0.71,1211.19,3,10,-1.0,Yes
+Olivia Young,BR,Smart Watch,Mobile,1,Not as described,Extremely disappointed. The product looks nothing like the photos. Avoid at all costs.,2024-09-26,2024-09-17,46,17,29,0.59,127.74,7,13,-0.94,Yes
+Mia Walker,AU,Mouse,Computers,5,Exceeded my expectations,Amazing value for the price. The quality is outstanding and it arrived earlier than expected.,2024-12-16,2024-11-19,11,41,61,0.67,1141.78,2,15,1.0,No
+Umar Khan,IN,TV,Home Electronics,5,Very satisfied,This product is absolutely fantastic! Works exactly as described and the quality is top notch.,2024-11-22,2024-11-21,90,10,12,0.83,754.79,7,15,0.95,Yes
+Vanessa Hill,CA,Router,Networking,1,Save your money,Very disappointed with this product. Stopped working after just one week of normal use.,2024-04-27,2024-04-20,89,36,51,0.71,413.93,2,14,-0.85,Yes
+Frank Thomas,BR,Smartphone,Mobile,1,Would not recommend,Very disappointed with this product. Stopped working after just one week of normal use.,2024-04-16,2024-03-28,19,48,60,0.8,1394.02,5,14,-0.81,Yes
+Xena Moore,US,Earbuds,Audio,1,Broke after a week,Extremely disappointed. The product looks nothing like the photos. Avoid at all costs.,2024-06-18,2024-06-05,97,47,51,0.92,1187.84,12,13,-0.81,Yes
+Mia Walker,IN,Wireless Headphones,Audio,1,Waste of money,Do not buy this product. It broke after just a few days of light use.,2024-04-28,2024-04-01,10,21,40,0.53,1155.82,10,15,-0.84,Yes
+Samuel Adams,AU,Keyboard,Computers,4,Great quality product,This is exactly what I was looking for. Works perfectly and looks great. Very satisfied.,2024-09-08,2024-08-31,46,35,47,0.74,653.45,11,15,0.7,Yes
+Zach Mitchell,GB,Monitor,Computers,1,Awful product,Terrible experience from start to finish. The product arrived damaged.,2024-05-06,2024-04-13,10,5,13,0.38,239.79,12,10,-0.98,No
+Emma Wilson,US,Bluetooth Speaker,Audio,5,Worth every penny,This product is absolutely fantastic! Works exactly as described and the quality is top notch.,2024-02-16,2024-02-15,40,28,39,0.72,1144.41,2,15,1.0,Yes
+Catherine Lee,JP,Camera,Photography,4,Very satisfied,Exceeded all my expectations. Great build quality and performs perfectly every time.,2024-10-11,2024-09-24,53,6,6,1.0,143.53,9,12,0.58,Yes
+Clara Brooks,CA,Printer,Computers,3,Could be better,The product is decent for the price. Not the best quality but it gets the job done.,2024-05-29,2024-05-15,50,49,51,0.96,1090.02,9,17,0.05,Yes
+Noah Hall,CA,Keyboard,Computers,4,Amazing product!,Best product I have purchased in a long time. It works perfectly right out of the box.,2024-03-12,2024-03-03,39,17,32,0.53,227.44,3,17,0.66,No
+Grace Martin,FR,Tablet,Mobile,1,Complete disappointment,Very disappointed with this product. Stopped working after just one week of normal use.,2024-07-03,2024-06-24,32,46,66,0.7,748.75,10,14,-1.0,Yes
+Aisha Patel,JP,Smartphone,Mobile,5,Great quality product,This product is absolutely fantastic! Works exactly as described and the quality is top notch.,2024-07-21,2024-07-10,80,24,34,0.71,665.93,7,15,1.0,Yes
+James Clark,IT,Tablet,Mobile,3,Mixed feelings,Not bad overall. Does what it says it will do but the quality could be improved.,2024-12-21,2024-12-14,62,20,25,0.8,1447.22,6,16,0.05,Yes
+Frank Thomas,MX,Bluetooth Speaker,Audio,1,Broke after a week,Terrible experience from start to finish. The product arrived damaged.,2024-07-20,2024-07-08,15,36,42,0.86,892.42,9,10,-1.0,Yes
+Zach Mitchell,DE,Mouse,Computers,3,Acceptable for the price,It is an okay product. Works as expected but nothing special.,2024-08-12,2024-07-17,38,44,46,0.96,1230.26,13,11,-0.06,No
+Olivia Young,JP,Smartphone,Mobile,4,Great quality product,Best product I have purchased in a long time. It works perfectly right out of the box.,2024-05-09,2024-04-17,20,45,58,0.78,1185.72,2,17,0.33,No
+William Turner,MX,Earbuds,Audio,5,Amazing product!,Exceeded all my expectations. Great build quality and performs perfectly every time.,2024-09-16,2024-08-17,89,26,43,0.6,64.78,6,12,1.0,Yes
+Umar Khan,AU,Laptop,Computers,4,Exceeded my expectations,Amazing value for the price. The quality is outstanding and it arrived earlier than expected.,2024-03-26,2024-03-05,79,2,20,0.1,1475.58,11,15,0.51,Yes
+Samuel Adams,BR,Monitor,Computers,2,Broke after a week,Very disappointed with this product. Stopped working after just one week of normal use.,2024-01-06,2024-01-02,34,14,30,0.47,1122.81,9,14,-0.37,Yes
+Peter King,US,Gaming Console,Gaming,4,Worth every penny,This is exactly what I was looking for. Works perfectly and looks great. Very satisfied.,2024-08-25,2024-07-31,87,37,53,0.7,234.61,1,15,0.37,Yes
+Peter King,AU,Camera,Photography,5,Best purchase ever,This product is absolutely fantastic! Works exactly as described and the quality is top notch.,2024-03-13,2024-03-01,40,21,35,0.6,1178.56,9,15,1.0,No
+Umar Khan,US,Laptop,Computers,5,Very satisfied,This is exactly what I was looking for. Works perfectly and looks great. Very satisfied.,2024-06-12,2024-06-09,39,2,5,0.4,43.65,6,15,1.0,Yes
+Henry White,AU,Router,Networking,4,Exceeded my expectations,Exceeded all my expectations. Great build quality and performs perfectly every time.,2024-03-30,2024-03-12,21,21,38,0.55,645.29,8,12,0.47,Yes
+Alice Johnson,GB,Smartphone,Mobile,5,Amazing product!,This is exactly what I was looking for. Works perfectly and looks great. Very satisfied.,2024-01-15,2023-12-22,79,12,26,0.46,892.38,7,15,1.0,Yes
+David Brown,CA,Tablet,Mobile,1,Waste of money,Extremely disappointed. The product looks nothing like the photos. Avoid at all costs.,2024-02-22,2024-01-27,69,11,22,0.5,495.72,8,13,-1.0,No
+Olivia Young,JP,TV,Home Electronics,2,Would not recommend,Extremely disappointed. The product looks nothing like the photos. Avoid at all costs.,2024-07-17,2024-06-27,51,37,40,0.93,528.41,14,13,-0.38,Yes
+David Brown,GB,Printer,Computers,5,Great quality product,Exceeded all my expectations. Great build quality and performs perfectly every time.,2024-10-29,2024-10-26,87,8,18,0.44,185.61,5,12,0.86,Yes
+Peter King,MX,Mouse,Computers,4,Highly recommended,Exceeded all my expectations. Great build quality and performs perfectly every time.,2024-07-17,2024-07-03,77,8,26,0.31,581.73,3,12,0.45,Yes
+Liam Robinson,US,TV,Home Electronics,5,Highly recommended,This is exactly what I was looking for. Works perfectly and looks great. Very satisfied.,2024-05-27,2024-05-22,24,20,34,0.59,932.92,14,15,1.0,No
+William Turner,FR,Smartphone,Mobile,5,Exceeded my expectations,This is exactly what I was looking for. Works perfectly and looks great. Very satisfied.,2024-10-14,2024-09-27,84,31,44,0.7,1030.2,7,15,0.99,No
+Rachel Green,IN,Smartphone,Mobile,3,Average quality,Not bad overall. Does what it says it will do but the quality could be improved.,2024-01-16,2023-12-21,98,14,23,0.61,58.72,4,16,-0.09,Yes
+Rachel Green,AU,Monitor,Computers,1,Complete disappointment,Extremely disappointed. The product looks nothing like the photos. Avoid at all costs.,2024-09-10,2024-08-23,66,7,25,0.28,180.17,13,13,-0.85,Yes
+Brian Evans,US,Monitor,Computers,5,Very satisfied,Exceeded all my expectations. Great build quality and performs perfectly every time.,2024-04-21,2024-04-07,14,47,67,0.7,1129.5,5,12,1.0,No
+Samuel Adams,AU,Tablet,Mobile,5,Worth every penny,This product is absolutely fantastic! Works exactly as described and the quality is top notch.,2024-08-12,2024-07-15,16,49,56,0.88,322.72,12,15,1.0,No
+Tina Baker,MX,Smartphone,Mobile,5,5 stars!,Best product I have purchased in a long time. It works perfectly right out of the box.,2024-04-15,2024-03-19,27,3,21,0.14,532.72,5,17,1.0,Yes
+Zach Mitchell,DE,Bluetooth Speaker,Audio,5,Great quality product,Amazing value for the price. The quality is outstanding and it arrived earlier than expected.,2024-10-20,2024-10-11,66,43,46,0.93,212.03,13,15,0.9,Yes
+Mia Walker,IT,Tablet,Mobile,3,It is okay,It is an okay product. Works as expected but nothing special.,2024-05-07,2024-05-02,92,20,27,0.74,1144.6,11,11,-0.15,Yes
+Isabella Harris,AU,Earbuds,Audio,5,Great quality product,This is exactly what I was looking for. Works perfectly and looks great. Very satisfied.,2024-07-11,2024-06-26,10,40,42,0.95,610.25,12,15,1.0,No
+Umar Khan,AU,Gaming Console,Gaming,1,Would not recommend,Extremely disappointed. The product looks nothing like the photos. Avoid at all costs.,2024-01-02,2023-12-05,100,46,48,0.96,1099.09,8,13,-0.93,Yes
+Karen Lewis,MX,Monitor,Computers,4,Outstanding performance,This is exactly what I was looking for. Works perfectly and looks great. Very satisfied.,2024-04-21,2024-04-07,28,31,39,0.79,491.07,5,15,0.44,Yes
+Olivia Young,US,Earbuds,Audio,1,Complete disappointment,Terrible experience from start to finish. The product arrived damaged.,2024-12-15,2024-11-20,7,2,5,0.4,943.01,14,10,-0.93,Yes
+Frank Thomas,CA,Router,Networking,4,Highly recommended,This is exactly what I was looking for. Works perfectly and looks great. Very satisfied.,2024-08-21,2024-08-20,55,12,16,0.75,1324.4,5,15,0.61,Yes
+James Clark,CA,Keyboard,Computers,4,Worth every penny,Amazing value for the price. The quality is outstanding and it arrived earlier than expected.,2024-02-12,2024-01-31,86,41,46,0.89,87.16,11,15,0.64,No
+Vanessa Hill,FR,Keyboard,Computers,4,Best purchase ever,This product is absolutely fantastic! Works exactly as described and the quality is top notch.,2024-01-01,2023-12-25,62,4,8,0.5,894.58,9,15,0.52,Yes
+Xena Moore,US,Wireless Headphones,Audio,5,Worth every penny,This product is absolutely fantastic! Works exactly as described and the quality is top notch.,2024-08-04,2024-07-12,17,30,32,0.94,351.13,2,15,0.96,Yes
+Emma Wilson,US,Bluetooth Speaker,Audio,1,Would not recommend,Terrible experience from start to finish. The product arrived damaged.,2024-03-11,2024-02-27,100,48,52,0.92,965.95,11,10,-1.0,Yes
+Vanessa Hill,FR,Earbuds,Audio,5,Highly recommended,This is exactly what I was looking for. Works perfectly and looks great. Very satisfied.,2024-06-28,2024-06-04,28,40,44,0.91,1380.64,10,15,1.0,Yes
+Zach Mitchell,GB,Laptop,Computers,5,Best purchase ever,Best product I have purchased in a long time. It works perfectly right out of the box.,2024-03-04,2024-02-14,94,24,35,0.69,1445.24,6,17,0.89,Yes
+Alice Johnson,IN,Tablet,Mobile,1,Waste of money,This product does not match the description at all. Complete waste of money.,2024-10-10,2024-09-20,77,46,65,0.71,434.53,12,13,-1.0,Yes
+Henry White,IT,TV,Home Electronics,2,Awful product,Extremely disappointed. The product looks nothing like the photos. Avoid at all costs.,2024-04-06,2024-03-13,51,18,38,0.47,91.31,13,13,-0.46,No
+Emma Wilson,AU,Laptop,Computers,2,Not as described,Do not buy this product. It broke after just a few days of light use.,2024-11-22,2024-11-02,10,33,33,1.0,1480.45,6,15,-0.53,No
+Grace Martin,US,Bluetooth Speaker,Audio,5,Outstanding performance,Best product I have purchased in a long time. It works perfectly right out of the box.,2024-08-29,2024-08-04,10,1,19,0.05,110.62,5,17,0.94,Yes
+Catherine Lee,MX,Monitor,Computers,4,Amazing product!,Exceeded all my expectations. Great build quality and performs perfectly every time.,2024-05-26,2024-05-05,92,32,45,0.71,641.13,7,12,0.61,Yes
+Umar Khan,US,Tablet,Mobile,2,Waste of money,Terrible experience from start to finish. The product arrived damaged.,2024-02-10,2024-01-24,27,9,26,0.35,496.86,10,10,-0.45,Yes
+Bob Smith,IN,Mouse,Computers,5,Amazing product!,Best product I have purchased in a long time. It works perfectly right out of the box.,2024-01-30,2024-01-22,12,27,30,0.9,685.52,10,17,1.0,Yes
+Aisha Patel,CA,Laptop,Computers,1,Very disappointed,This product does not match the description at all. Complete waste of money.,2024-12-25,2024-12-24,21,31,42,0.74,789.28,13,13,-0.83,Yes
+Isabella Harris,BR,Bluetooth Speaker,Audio,3,It is okay,Mixed feelings about this one. Some features work well but others are lacking.,2024-03-01,2024-02-05,4,21,34,0.62,415.25,2,13,-0.1,Yes
+Yasmine Carter,US,Gaming Console,Gaming,3,Acceptable for the price,Not bad overall. Does what it says it will do but the quality could be improved.,2024-07-03,2024-07-01,64,36,41,0.88,557.85,5,16,0.19,Yes
+Daniel Foster,GB,Smart Watch,Mobile,3,Nothing special,The product is decent for the price. Not the best quality but it gets the job done.,2024-01-23,2023-12-26,2,15,16,0.94,712.93,7,17,-0.07,Yes
+Daniel Foster,IN,Router,Networking,4,Absolutely love it!,Exceeded all my expectations. Great build quality and performs perfectly every time.,2024-12-31,2024-12-07,84,26,33,0.79,489.49,7,12,0.4,Yes
+Quinn Scott,US,Printer,Computers,1,Waste of money,Extremely disappointed. The product looks nothing like the photos. Avoid at all costs.,2024-07-09,2024-07-05,65,43,44,0.98,277.22,13,13,-1.0,No
+James Clark,BR,Laptop,Computers,1,Complete disappointment,Terrible experience from start to finish. The product arrived damaged.,2024-06-08,2024-05-28,12,35,49,0.71,21.87,4,10,-1.0,Yes
+Yasmine Carter,CA,Mouse,Computers,1,Awful product,This product does not match the description at all. Complete waste of money.,2024-08-25,2024-08-13,76,31,37,0.84,1101.37,9,13,-0.94,Yes
+Yasmine Carter,AU,Wireless Headphones,Audio,1,Broke after a week,Very disappointed with this product. Stopped working after just one week of normal use.,2024-04-29,2024-04-11,45,40,40,1.0,1426.98,1,14,-1.0,Yes
+Bob Smith,CA,Laptop,Computers,5,Exceeded my expectations,Exceeded all my expectations. Great build quality and performs perfectly every time.,2024-05-01,2024-04-17,63,3,7,0.43,1070.36,2,12,0.99,No
+Catherine Lee,BR,Mouse,Computers,4,Worth every penny,This is exactly what I was looking for. Works perfectly and looks great. Very satisfied.,2024-02-13,2024-01-25,13,32,36,0.89,959.45,7,15,0.37,Yes
+Henry White,US,Camera,Photography,1,Poor quality,This product does not match the description at all. Complete waste of money.,2024-05-29,2024-05-20,41,25,35,0.71,483.91,5,13,-1.0,Yes
+Rachel Green,AU,Smartphone,Mobile,1,Awful product,Very disappointed with this product. Stopped working after just one week of normal use.,2024-03-20,2024-03-16,22,28,42,0.67,477.91,2,14,-1.0,Yes
+Aisha Patel,JP,Gaming Console,Gaming,1,Terrible experience,Do not buy this product. It broke after just a few days of light use.,2024-05-15,2024-04-17,16,5,10,0.5,1213.32,5,15,-1.0,Yes
+James Clark,CA,Smart Watch,Mobile,1,Would not recommend,This product does not match the description at all. Complete waste of money.,2024-02-16,2024-01-24,32,22,34,0.65,775.05,11,13,-1.0,Yes
+Zach Mitchell,GB,Wireless Headphones,Audio,1,Broke after a week,Do not buy this product. It broke after just a few days of light use.,2024-10-11,2024-09-17,71,15,18,0.83,698.44,13,15,-1.0,Yes
+Samuel Adams,BR,Wireless Headphones,Audio,4,Absolutely love it!,Best product I have purchased in a long time. It works perfectly right out of the box.,2024-03-07,2024-02-29,52,23,43,0.53,1406.99,2,17,0.58,Yes
+Aisha Patel,IN,Router,Networking,1,Waste of money,Very disappointed with this product. Stopped working after just one week of normal use.,2024-02-03,2024-01-27,83,28,32,0.88,147.05,14,14,-0.88,Yes
+Vanessa Hill,DE,Wireless Headphones,Audio,4,Very satisfied,This product is absolutely fantastic! Works exactly as described and the quality is top notch.,2024-03-27,2024-02-26,74,27,39,0.69,749.23,7,15,0.33,Yes
+Henry White,IN,Bluetooth Speaker,Audio,5,Exceeded my expectations,Best product I have purchased in a long time. It works perfectly right out of the box.,2024-05-20,2024-05-11,58,9,10,0.9,925.02,10,17,1.0,No
+Clara Brooks,ES,Camera,Photography,1,Save your money,Do not buy this product. It broke after just a few days of light use.,2024-02-01,2024-01-29,36,24,28,0.86,634.66,11,15,-1.0,Yes
+Liam Robinson,BR,Keyboard,Computers,5,Outstanding performance,This product is absolutely fantastic! Works exactly as described and the quality is top notch.,2024-07-14,2024-06-18,92,22,37,0.59,821.33,8,15,1.0,Yes
+Isabella Harris,US,Camera,Photography,1,Terrible experience,This product does not match the description at all. Complete waste of money.,2024-01-14,2024-01-03,77,14,14,1.0,1344.69,13,13,-1.0,No
+Zach Mitchell,US,TV,Home Electronics,2,Would not recommend,Extremely disappointed. The product looks nothing like the photos. Avoid at all costs.,2024-04-29,2024-04-23,13,15,22,0.68,407.13,14,13,-0.51,Yes
+Liam Robinson,BR,Earbuds,Audio,4,Amazing product!,Amazing value for the price. The quality is outstanding and it arrived earlier than expected.,2024-03-29,2024-03-23,31,37,47,0.79,1211.25,12,15,0.45,Yes
+Peter King,US,Mouse,Computers,3,Mixed feelings,Not bad overall. Does what it says it will do but the quality could be improved.,2024-10-15,2024-10-10,73,12,27,0.44,817.77,3,16,0.1,Yes
+Grace Martin,GB,Wireless Headphones,Audio,1,Not as described,Extremely disappointed. The product looks nothing like the photos. Avoid at all costs.,2024-04-22,2024-04-21,68,30,30,1.0,504.28,10,13,-1.0,Yes
+Quinn Scott,AU,Mouse,Computers,5,Highly recommended,Amazing value for the price. The quality is outstanding and it arrived earlier than expected.,2024-01-31,2024-01-30,19,37,41,0.9,1163.81,14,15,1.0,Yes
+Noah Hall,IT,Bluetooth Speaker,Audio,4,Amazing product!,Exceeded all my expectations. Great build quality and performs perfectly every time.,2024-02-21,2024-02-10,39,20,24,0.83,1464.03,12,12,0.51,Yes
+William Turner,IN,Smartphone,Mobile,1,Save your money,Extremely disappointed. The product looks nothing like the photos. Avoid at all costs.,2024-07-01,2024-06-23,86,37,42,0.88,573.79,12,13,-1.0,Yes
+Daniel Foster,JP,Smartphone,Mobile,4,Absolutely love it!,Exceeded all my expectations. Great build quality and performs perfectly every time.,2024-07-19,2024-06-21,99,36,37,0.97,281.3,6,12,0.4,Yes
+Frank Thomas,US,Keyboard,Computers,1,Awful product,Very disappointed with this product. Stopped working after just one week of normal use.,2024-09-11,2024-09-06,43,47,49,0.96,364.61,6,14,-1.0,Yes
+Xena Moore,US,Gaming Console,Gaming,1,Very disappointed,Terrible experience from start to finish. The product arrived damaged.,2024-04-17,2024-04-09,89,4,15,0.27,392.42,2,10,-1.0,Yes
+David Brown,IT,Camera,Photography,1,Complete disappointment,Do not buy this product. It broke after just a few days of light use.,2024-03-26,2024-02-26,53,31,43,0.72,533.33,7,15,-1.0,Yes
+Karen Lewis,GB,Smartphone,Mobile,1,Complete disappointment,Very disappointed with this product. Stopped working after just one week of normal use.,2024-01-18,2024-01-08,3,20,28,0.71,1427.98,2,14,-0.84,No
+Umar Khan,GB,Smartphone,Mobile,4,Best purchase ever,Exceeded all my expectations. Great build quality and performs perfectly every time.,2024-02-17,2024-02-06,77,39,54,0.72,1059.71,7,12,0.57,No
+Rachel Green,CA,Smartphone,Mobile,5,Absolutely love it!,This product is absolutely fantastic! Works exactly as described and the quality is top notch.,2024-06-18,2024-06-11,25,26,43,0.6,1085.84,12,15,1.0,Yes
+Alice Johnson,DE,Tablet,Mobile,1,Not as described,Very disappointed with this product. Stopped working after just one week of normal use.,2024-01-26,2024-01-13,74,35,50,0.7,238.85,6,14,-0.99,Yes
+Peter King,US,Tablet,Mobile,4,5 stars!,This is exactly what I was looking for. Works perfectly and looks great. Very satisfied.,2024-04-12,2024-04-08,4,13,18,0.72,960.9,2,15,0.6,Yes
+Frank Thomas,AU,Monitor,Computers,3,Could be better,The product arrived on time and works as described. Build quality is average.,2024-09-07,2024-08-09,85,16,18,0.89,966.38,7,13,-0.15,No
+Samuel Adams,US,Bluetooth Speaker,Audio,1,Poor quality,Do not buy this product. It broke after just a few days of light use.,2024-01-23,2024-01-14,57,29,37,0.78,347.1,5,15,-1.0,Yes
+Aisha Patel,AU,Monitor,Computers,4,Best purchase ever,This product is absolutely fantastic! Works exactly as described and the quality is top notch.,2024-12-08,2024-11-26,70,26,44,0.59,348.99,1,15,0.53,No
+Bob Smith,ES,TV,Home Electronics,2,Complete disappointment,Extremely disappointed. The product looks nothing like the photos. Avoid at all costs.,2024-04-30,2024-04-14,39,5,17,0.29,1355.14,12,13,-0.31,Yes
+Noah Hall,GB,Laptop,Computers,4,Very satisfied,Best product I have purchased in a long time. It works perfectly right out of the box.,2024-03-26,2024-03-19,25,8,9,0.89,640.83,11,17,0.39,Yes
+Rachel Green,IN,Printer,Computers,1,Awful product,Terrible experience from start to finish. The product arrived damaged.,2024-06-12,2024-05-13,94,4,6,0.67,588.27,7,10,-1.0,Yes
+Emma Wilson,BR,TV,Home Electronics,1,Complete disappointment,Very disappointed with this product. Stopped working after just one week of normal use.,2024-12-24,2024-12-04,76,33,46,0.72,177.65,3,14,-1.0,Yes
+Mia Walker,IT,Router,Networking,1,Waste of money,Extremely disappointed. The product looks nothing like the photos. Avoid at all costs.,2024-02-21,2024-01-26,37,34,45,0.76,1318.06,5,13,-1.0,No
+William Turner,CA,Wireless Headphones,Audio,1,Poor quality,Terrible experience from start to finish. The product arrived damaged.,2024-07-25,2024-07-20,80,38,50,0.76,67.79,6,10,-0.84,Yes
+Peter King,US,Mouse,Computers,1,Complete disappointment,Terrible experience from start to finish. The product arrived damaged.,2024-07-09,2024-07-08,44,50,59,0.85,473.31,14,10,-0.99,Yes
+Olivia Young,GB,Smartphone,Mobile,3,Not bad but not great,The product arrived on time and works as described. Build quality is average.,2024-06-13,2024-06-04,94,26,45,0.58,971.88,4,13,0.19,No
+Quinn Scott,AU,Mouse,Computers,1,Complete disappointment,Extremely disappointed. The product looks nothing like the photos. Avoid at all costs.,2024-07-10,2024-06-13,8,32,37,0.86,107.77,12,13,-1.0,Yes
+Bob Smith,AU,Monitor,Computers,5,Outstanding performance,Exceeded all my expectations. Great build quality and performs perfectly every time.,2024-01-15,2024-01-09,25,12,13,0.92,381.74,8,12,1.0,Yes
+Tina Baker,FR,Tablet,Mobile,5,Worth every penny,This is exactly what I was looking for. Works perfectly and looks great. Very satisfied.,2024-09-15,2024-09-02,82,7,7,1.0,370.49,8,15,0.9,Yes
+Catherine Lee,IN,Printer,Computers,1,Complete disappointment,Extremely disappointed. The product looks nothing like the photos. Avoid at all costs.,2024-10-09,2024-09-27,45,10,18,0.56,1125.95,12,13,-0.93,Yes
+Isabella Harris,DE,Camera,Photography,5,Absolutely love it!,Best product I have purchased in a long time. It works perfectly right out of the box.,2024-10-19,2024-09-24,28,14,34,0.41,345.42,4,17,1.0,Yes
+Zach Mitchell,IN,Printer,Computers,4,Absolutely love it!,This is exactly what I was looking for. Works perfectly and looks great. Very satisfied.,2024-03-08,2024-02-16,23,38,38,1.0,343.42,10,15,0.41,Yes
+Tina Baker,AU,Camera,Photography,5,Amazing product!,Amazing value for the price. The quality is outstanding and it arrived earlier than expected.,2024-08-23,2024-08-14,28,29,38,0.76,1019.02,14,15,0.87,Yes
+Peter King,US,Wireless Headphones,Audio,2,Save your money,Terrible experience from start to finish. The product arrived damaged.,2024-10-14,2024-09-23,77,38,47,0.81,454.73,2,10,-0.53,Yes
+Yasmine Carter,CA,Tablet,Mobile,4,Worth every penny,Amazing value for the price. The quality is outstanding and it arrived earlier than expected.,2024-05-13,2024-04-22,92,41,50,0.82,290.66,9,15,0.4,Yes
+Isabella Harris,DE,Monitor,Computers,1,Awful product,Do not buy this product. It broke after just a few days of light use.,2024-12-04,2024-11-23,88,8,8,1.0,986.55,5,15,-0.96,No
+Zach Mitchell,IT,Camera,Photography,1,Very disappointed,Extremely disappointed. The product looks nothing like the photos. Avoid at all costs.,2024-12-28,2024-12-09,25,21,28,0.75,1032.61,11,13,-0.97,Yes
+Xena Moore,CA,TV,Home Electronics,1,Terrible experience,This product does not match the description at all. Complete waste of money.,2024-12-02,2024-11-03,72,11,20,0.55,155.43,3,13,-1.0,Yes
+Liam Robinson,CA,Keyboard,Computers,4,Worth every penny,This product is absolutely fantastic! Works exactly as described and the quality is top notch.,2024-04-23,2024-04-11,29,47,56,0.84,636.5,6,15,0.32,Yes
+Peter King,GB,Gaming Console,Gaming,2,Waste of money,Do not buy this product. It broke after just a few days of light use.,2024-01-28,2023-12-31,82,37,55,0.67,1417.01,2,15,-0.65,Yes
+Noah Hall,BR,Printer,Computers,1,Broke after a week,Extremely disappointed. The product looks nothing like the photos. Avoid at all costs.,2024-06-01,2024-05-18,7,9,13,0.69,1488.6,6,13,-0.8,No
+Alice Johnson,FR,Smartphone,Mobile,2,Would not recommend,This product does not match the description at all. Complete waste of money.,2024-02-11,2024-01-26,43,40,45,0.89,476.99,1,13,-0.38,Yes
+Umar Khan,DE,Smart Watch,Mobile,1,Poor quality,Extremely disappointed. The product looks nothing like the photos. Avoid at all costs.,2024-03-22,2024-03-06,98,49,51,0.96,202.81,7,13,-0.93,No
+Yasmine Carter,ES,Camera,Photography,5,Very satisfied,This is exactly what I was looking for. Works perfectly and looks great. Very satisfied.,2024-01-03,2024-01-01,69,12,23,0.52,1425.6,6,15,1.0,Yes
+Samuel Adams,IN,Wireless Headphones,Audio,3,Decent product,It is an okay product. Works as expected but nothing special.,2024-04-25,2024-04-02,45,19,23,0.83,163.04,9,11,-0.04,Yes
+Clara Brooks,GB,Laptop,Computers,2,Very disappointed,Terrible experience from start to finish. The product arrived damaged.,2024-05-28,2024-05-13,94,33,52,0.63,790.94,7,10,-0.33,Yes
+Grace Martin,US,Router,Networking,5,Very satisfied,Amazing value for the price. The quality is outstanding and it arrived earlier than expected.,2024-04-06,2024-03-31,52,1,8,0.12,344.24,3,15,1.0,Yes
+Bob Smith,US,Laptop,Computers,1,Would not recommend,Very disappointed with this product. Stopped working after just one week of normal use.,2024-07-11,2024-06-12,82,16,33,0.48,938.47,10,14,-0.91,Yes
+Grace Martin,US,Wireless Headphones,Audio,5,Best purchase ever,This is exactly what I was looking for. Works perfectly and looks great. Very satisfied.,2024-08-15,2024-08-02,16,35,43,0.81,716.85,3,15,0.87,Yes
+Quinn Scott,JP,Camera,Photography,1,Waste of money,Extremely disappointed. The product looks nothing like the photos. Avoid at all costs.,2024-05-18,2024-04-28,78,44,48,0.92,634.05,2,13,-0.9,Yes
+Liam Robinson,DE,Tablet,Mobile,4,Best purchase ever,This product is absolutely fantastic! Works exactly as described and the quality is top notch.,2024-09-11,2024-09-04,78,12,20,0.6,1248.93,4,15,0.64,Yes
+Alice Johnson,US,Smartphone,Mobile,1,Very disappointed,Extremely disappointed. The product looks nothing like the photos. Avoid at all costs.,2024-09-11,2024-08-12,27,44,59,0.75,502.6,1,13,-0.88,Yes
+Clara Brooks,CA,Printer,Computers,1,Awful product,Do not buy this product. It broke after just a few days of light use.,2024-03-17,2024-03-14,100,32,34,0.94,1088.11,2,15,-1.0,Yes
+Zach Mitchell,IN,Gaming Console,Gaming,1,Terrible experience,Terrible experience from start to finish. The product arrived damaged.,2024-08-25,2024-08-23,13,11,12,0.92,1279.85,6,10,-0.87,No
+Clara Brooks,FR,Mouse,Computers,4,Best purchase ever,This product is absolutely fantastic! Works exactly as described and the quality is top notch.,2024-01-24,2024-01-23,18,42,62,0.68,264.06,6,15,0.51,Yes
+Aisha Patel,AU,Router,Networking,2,Waste of money,Terrible experience from start to finish. The product arrived damaged.,2024-06-24,2024-06-18,15,25,37,0.68,1443.84,5,10,-0.35,No
+Frank Thomas,US,Monitor,Computers,2,Broke after a week,This product does not match the description at all. Complete waste of money.,2024-02-27,2024-02-22,90,46,47,0.98,1472.54,14,13,-0.37,No
+Tina Baker,US,Router,Networking,3,Average experience,The product arrived on time and works as described. Build quality is average.,2024-10-18,2024-09-26,57,11,30,0.37,575.83,6,13,-0.05,Yes
+William Turner,ES,Gaming Console,Gaming,3,Acceptable for the price,The product is decent for the price. Not the best quality but it gets the job done.,2024-07-29,2024-07-14,6,4,12,0.33,985.91,1,17,-0.08,Yes
+Henry White,IT,Keyboard,Computers,5,Worth every penny,Exceeded all my expectations. Great build quality and performs perfectly every time.,2024-09-24,2024-09-01,90,39,42,0.93,654.94,12,12,1.0,Yes
+Quinn Scott,IT,Keyboard,Computers,1,Broke after a week,This product does not match the description at all. Complete waste of money.,2024-10-12,2024-09-13,79,3,3,1.0,968.66,3,13,-0.84,No
+Rachel Green,AU,Printer,Computers,2,Poor quality,Very disappointed with this product. Stopped working after just one week of normal use.,2024-09-08,2024-08-28,31,21,29,0.72,85.02,4,14,-0.48,No
+Karen Lewis,US,Printer,Computers,5,Exceeded my expectations,This product is absolutely fantastic! Works exactly as described and the quality is top notch.,2024-08-23,2024-08-08,74,28,30,0.93,1286.32,8,15,1.0,No
+Zach Mitchell,JP,Mouse,Computers,1,Very disappointed,Very disappointed with this product. Stopped working after just one week of normal use.,2024-07-25,2024-07-11,5,35,52,0.67,10.25,2,14,-0.82,Yes
+Aisha Patel,CA,Router,Networking,4,Outstanding performance,Exceeded all my expectations. Great build quality and performs perfectly every time.,2024-04-15,2024-03-25,86,29,39,0.74,551.38,1,12,0.43,No
+David Brown,CA,Bluetooth Speaker,Audio,1,Save your money,Extremely disappointed. The product looks nothing like the photos. Avoid at all costs.,2024-11-03,2024-10-18,92,42,53,0.79,1076.71,2,13,-0.88,Yes
+Peter King,GB,Bluetooth Speaker,Audio,4,Worth every penny,Amazing value for the price. The quality is outstanding and it arrived earlier than expected.,2024-10-07,2024-09-20,48,44,47,0.94,78.21,3,15,0.51,No
+Grace Martin,IN,Laptop,Computers,5,Great quality product,Exceeded all my expectations. Great build quality and performs perfectly every time.,2024-04-10,2024-04-03,16,25,31,0.81,691.0,13,12,1.0,Yes
+Olivia Young,BR,Monitor,Computers,1,Broke after a week,Very disappointed with this product. Stopped working after just one week of normal use.,2024-11-20,2024-10-24,87,37,40,0.93,1160.5,8,14,-1.0,Yes
+Daniel Foster,GB,Gaming Console,Gaming,1,Very disappointed,Extremely disappointed. The product looks nothing like the photos. Avoid at all costs.,2024-01-25,2024-01-07,56,37,52,0.71,1387.31,13,13,-0.9,Yes
+Noah Hall,JP,Mouse,Computers,1,Poor quality,Very disappointed with this product. Stopped working after just one week of normal use.,2024-07-17,2024-06-25,77,38,48,0.79,761.12,7,14,-0.97,Yes
+Quinn Scott,IN,Tablet,Mobile,5,Amazing product!,Amazing value for the price. The quality is outstanding and it arrived earlier than expected.,2024-05-30,2024-05-15,18,8,21,0.38,907.76,12,15,1.0,Yes
+Emma Wilson,GB,Mouse,Computers,2,Save your money,This product does not match the description at all. Complete waste of money.,2024-04-12,2024-04-05,80,45,54,0.83,1033.05,11,13,-0.37,Yes
+Rachel Green,IN,Mouse,Computers,1,Waste of money,Terrible experience from start to finish. The product arrived damaged.,2024-10-14,2024-09-28,75,36,49,0.73,1014.62,14,10,-0.86,No
+Isabella Harris,GB,Monitor,Computers,1,Very disappointed,Extremely disappointed. The product looks nothing like the photos. Avoid at all costs.,2024-02-24,2024-02-23,49,9,10,0.9,1008.68,4,13,-1.0,Yes
+Olivia Young,US,Keyboard,Computers,5,Great quality product,Best product I have purchased in a long time. It works perfectly right out of the box.,2024-02-01,2024-01-09,38,13,30,0.43,58.14,14,17,0.86,Yes
+Noah Hall,IN,Mouse,Computers,1,Save your money,Do not buy this product. It broke after just a few days of light use.,2024-05-01,2024-04-14,90,18,19,0.95,1390.46,7,15,-0.91,Yes
+William Turner,AU,Wireless Headphones,Audio,5,Great quality product,Best product I have purchased in a long time. It works perfectly right out of the box.,2024-11-13,2024-10-16,100,28,35,0.8,1368.11,12,17,1.0,Yes
+Quinn Scott,US,Monitor,Computers,4,Exceeded my expectations,Amazing value for the price. The quality is outstanding and it arrived earlier than expected.,2024-08-17,2024-08-11,88,4,9,0.44,1444.09,12,15,0.52,No
+Karen Lewis,FR,Wireless Headphones,Audio,1,Broke after a week,Terrible experience from start to finish. The product arrived damaged.,2024-10-11,2024-10-02,17,10,28,0.36,1270.56,1,10,-1.0,Yes
+Peter King,BR,Wireless Headphones,Audio,1,Poor quality,Terrible experience from start to finish. The product arrived damaged.,2024-11-01,2024-10-30,100,40,59,0.68,1266.28,5,10,-0.84,Yes
+Rachel Green,AU,Laptop,Computers,4,Worth every penny,Exceeded all my expectations. Great build quality and performs perfectly every time.,2024-04-22,2024-04-16,67,4,20,0.2,247.46,9,12,0.46,Yes
+Tina Baker,ES,Bluetooth Speaker,Audio,3,Does the job,It is an okay product. Works as expected but nothing special.,2024-12-05,2024-11-24,43,23,32,0.72,335.48,13,11,0.18,No
+Henry White,US,TV,Home Electronics,1,Very disappointed,Very disappointed with this product. Stopped working after just one week of normal use.,2024-12-08,2024-11-26,58,15,35,0.43,924.41,10,14,-0.97,Yes
+Yasmine Carter,AU,Camera,Photography,4,Best purchase ever,This is exactly what I was looking for. Works perfectly and looks great. Very satisfied.,2024-05-11,2024-04-23,93,18,18,1.0,1367.89,14,15,0.54,No
+Yasmine Carter,MX,Gaming Console,Gaming,1,Very disappointed,Terrible experience from start to finish. The product arrived damaged.,2024-11-29,2024-11-22,42,32,34,0.94,1422.84,3,10,-0.85,Yes
+Rachel Green,DE,Keyboard,Computers,5,Best purchase ever,Best product I have purchased in a long time. It works perfectly right out of the box.,2024-12-09,2024-11-18,100,13,26,0.5,1255.14,4,17,1.0,Yes
+Zach Mitchell,CA,Mouse,Computers,4,Highly recommended,This product is absolutely fantastic! Works exactly as described and the quality is top notch.,2024-08-23,2024-07-31,43,2,4,0.5,119.14,3,15,0.67,Yes
+Mia Walker,US,Earbuds,Audio,5,Exceeded my expectations,Amazing value for the price. The quality is outstanding and it arrived earlier than expected.,2024-07-27,2024-07-14,58,40,52,0.77,655.21,1,15,0.86,Yes
+James Clark,IN,Keyboard,Computers,4,5 stars!,This product is absolutely fantastic! Works exactly as described and the quality is top notch.,2024-10-26,2024-10-24,90,4,15,0.27,1392.79,2,15,0.54,Yes
+Emma Wilson,AU,Tablet,Mobile,3,Acceptable for the price,The product arrived on time and works as described. Build quality is average.,2024-07-21,2024-06-24,85,1,16,0.06,242.92,4,13,0.09,Yes
+Rachel Green,MX,Keyboard,Computers,5,Highly recommended,Amazing value for the price. The quality is outstanding and it arrived earlier than expected.,2024-12-12,2024-11-13,94,41,52,0.79,1436.51,1,15,1.0,Yes
+Grace Martin,AU,Laptop,Computers,3,Decent product,The product is decent for the price. Not the best quality but it gets the job done.,2024-10-20,2024-09-30,51,34,51,0.67,1421.0,5,17,-0.15,Yes
+Vanessa Hill,BR,Camera,Photography,5,Outstanding performance,Best product I have purchased in a long time. It works perfectly right out of the box.,2024-03-23,2024-03-17,29,39,47,0.83,299.55,3,17,1.0,Yes
+Xena Moore,BR,Printer,Computers,1,Save your money,Do not buy this product. It broke after just a few days of light use.,2024-11-26,2024-11-08,10,18,20,0.9,383.52,4,15,-0.83,No
+Karen Lewis,IT,Bluetooth Speaker,Audio,5,Worth every penny,Best product I have purchased in a long time. It works perfectly right out of the box.,2024-12-09,2024-11-18,31,6,15,0.4,933.08,4,17,1.0,No
+Noah Hall,GB,Bluetooth Speaker,Audio,4,5 stars!,Amazing value for the price. The quality is outstanding and it arrived earlier than expected.,2024-12-21,2024-12-02,20,36,54,0.67,553.1,6,15,0.46,Yes
+Vanessa Hill,IN,Bluetooth Speaker,Audio,1,Not as described,This product does not match the description at all. Complete waste of money.,2024-12-30,2024-12-06,83,27,35,0.77,1261.76,3,13,-1.0,No
+Aisha Patel,CA,Gaming Console,Gaming,5,Very satisfied,Amazing value for the price. The quality is outstanding and it arrived earlier than expected.,2024-06-05,2024-05-20,71,6,11,0.55,971.87,2,15,0.8,Yes
+Quinn Scott,US,Router,Networking,2,Save your money,This product does not match the description at all. Complete waste of money.,2024-05-14,2024-04-20,81,4,6,0.67,1339.24,14,13,-0.54,No
+Emma Wilson,AU,Monitor,Computers,4,5 stars!,Best product I have purchased in a long time. It works perfectly right out of the box.,2024-01-19,2024-01-01,34,34,51,0.67,713.43,13,17,0.67,No
+Alice Johnson,CA,Smart Watch,Mobile,2,Awful product,Terrible experience from start to finish. The product arrived damaged.,2024-03-09,2024-02-23,65,32,34,0.94,601.21,9,10,-0.56,Yes
+Xena Moore,IT,Monitor,Computers,5,Outstanding performance,Best product I have purchased in a long time. It works perfectly right out of the box.,2024-08-16,2024-08-10,23,36,54,0.67,992.53,3,17,0.98,Yes
+Quinn Scott,AU,Wireless Headphones,Audio,1,Not as described,Do not buy this product. It broke after just a few days of light use.,2024-04-28,2024-04-25,34,23,30,0.77,73.78,4,15,-1.0,No
+Aisha Patel,CA,Gaming Console,Gaming,1,Complete disappointment,Very disappointed with this product. Stopped working after just one week of normal use.,2024-01-21,2023-12-31,42,6,22,0.27,954.01,5,14,-1.0,Yes
+Quinn Scott,AU,Camera,Photography,3,Could be better,Mixed feelings about this one. Some features work well but others are lacking.,2024-10-27,2024-10-06,10,33,41,0.8,570.73,4,13,-0.03,Yes
+Frank Thomas,CA,Printer,Computers,5,Worth every penny,This is exactly what I was looking for. Works perfectly and looks great. Very satisfied.,2024-09-03,2024-08-05,78,0,16,0.0,1324.23,8,15,0.94,Yes
+Vanessa Hill,CA,TV,Home Electronics,4,Great quality product,Best product I have purchased in a long time. It works perfectly right out of the box.,2024-03-17,2024-03-11,21,23,42,0.55,1078.78,2,17,0.55,No
+Aisha Patel,DE,Monitor,Computers,1,Would not recommend,Very disappointed with this product. Stopped working after just one week of normal use.,2024-09-03,2024-08-12,62,30,36,0.83,890.28,11,14,-0.93,Yes
+Emma Wilson,US,Smart Watch,Mobile,1,Very disappointed,This product does not match the description at all. Complete waste of money.,2024-10-20,2024-10-01,21,8,28,0.29,773.84,10,13,-0.82,Yes
+Vanessa Hill,IN,Tablet,Mobile,1,Poor quality,Extremely disappointed. The product looks nothing like the photos. Avoid at all costs.,2024-07-26,2024-07-06,73,40,40,1.0,1318.98,12,13,-1.0,Yes
+Emma Wilson,BR,Smart Watch,Mobile,1,Complete disappointment,Extremely disappointed. The product looks nothing like the photos. Avoid at all costs.,2024-08-29,2024-08-01,62,10,17,0.59,1247.24,10,13,-0.8,Yes
+Henry White,AU,Earbuds,Audio,4,Outstanding performance,Amazing value for the price. The quality is outstanding and it arrived earlier than expected.,2024-03-26,2024-03-02,88,21,35,0.6,898.83,2,15,0.54,No
+David Brown,GB,Smartphone,Mobile,1,Waste of money,Very disappointed with this product. Stopped working after just one week of normal use.,2024-04-13,2024-03-27,65,43,56,0.77,1241.51,10,14,-0.9,No
+Emma Wilson,JP,Router,Networking,1,Awful product,Extremely disappointed. The product looks nothing like the photos. Avoid at all costs.,2024-01-20,2023-12-22,69,32,35,0.91,148.85,11,13,-0.84,Yes
+Peter King,AU,Router,Networking,1,Broke after a week,Extremely disappointed. The product looks nothing like the photos. Avoid at all costs.,2024-08-03,2024-07-22,6,44,60,0.73,649.14,13,13,-1.0,Yes
+James Clark,JP,Earbuds,Audio,1,Awful product,Very disappointed with this product. Stopped working after just one week of normal use.,2024-08-05,2024-07-31,33,30,37,0.81,1366.03,2,14,-1.0,No
+Mia Walker,GB,Tablet,Mobile,4,Exceeded my expectations,This product is absolutely fantastic! Works exactly as described and the quality is top notch.,2024-12-29,2024-12-05,1,36,52,0.69,185.56,1,15,0.33,Yes
+Noah Hall,BR,Camera,Photography,5,Worth every penny,This product is absolutely fantastic! Works exactly as described and the quality is top notch.,2024-03-20,2024-03-06,84,37,45,0.82,399.34,9,15,0.98,Yes
+Rachel Green,MX,Earbuds,Audio,4,Great quality product,This is exactly what I was looking for. Works perfectly and looks great. Very satisfied.,2024-04-14,2024-03-31,71,50,67,0.75,728.88,6,15,0.48,No
+David Brown,CA,Tablet,Mobile,3,Not bad but not great,Not bad overall. Does what it says it will do but the quality could be improved.,2024-06-25,2024-05-31,91,25,29,0.86,1283.95,11,16,0.02,No
+William Turner,US,Monitor,Computers,1,Poor quality,Very disappointed with this product. Stopped working after just one week of normal use.,2024-04-19,2024-04-02,52,50,60,0.83,1203.27,10,14,-1.0,Yes
+Liam Robinson,US,Camera,Photography,5,Absolutely love it!,This product is absolutely fantastic! Works exactly as described and the quality is top notch.,2024-03-15,2024-02-28,77,27,29,0.93,105.48,4,15,1.0,Yes
+Aisha Patel,GB,Mouse,Computers,2,Broke after a week,Do not buy this product. It broke after just a few days of light use.,2024-11-10,2024-10-20,67,18,37,0.49,95.62,13,15,-0.59,No
+Quinn Scott,ES,Gaming Console,Gaming,4,Absolutely love it!,Best product I have purchased in a long time. It works perfectly right out of the box.,2024-12-02,2024-11-02,67,18,24,0.75,60.08,10,17,0.46,Yes
+Yasmine Carter,AU,Earbuds,Audio,1,Poor quality,Very disappointed with this product. Stopped working after just one week of normal use.,2024-07-03,2024-06-25,84,0,5,0.0,139.4,5,14,-1.0,Yes
+James Clark,MX,Keyboard,Computers,5,Amazing product!,This is exactly what I was looking for. Works perfectly and looks great. Very satisfied.,2024-10-27,2024-10-20,67,0,2,0.0,1379.57,9,15,1.0,Yes
+Noah Hall,ES,Bluetooth Speaker,Audio,1,Terrible experience,This product does not match the description at all. Complete waste of money.,2024-11-06,2024-10-30,59,25,43,0.58,16.93,3,13,-1.0,Yes
+Zach Mitchell,BR,TV,Home Electronics,1,Waste of money,Extremely disappointed. The product looks nothing like the photos. Avoid at all costs.,2024-05-30,2024-05-19,15,32,40,0.8,1315.41,14,13,-0.93,Yes
+Vanessa Hill,FR,Mouse,Computers,1,Complete disappointment,Do not buy this product. It broke after just a few days of light use.,2024-10-15,2024-09-29,99,15,25,0.6,1442.25,8,15,-1.0,Yes
+Zach Mitchell,IN,Gaming Console,Gaming,5,Best purchase ever,Amazing value for the price. The quality is outstanding and it arrived earlier than expected.,2024-02-04,2024-01-22,82,50,57,0.88,1018.6,4,15,0.87,No
+Xena Moore,IN,Bluetooth Speaker,Audio,4,Outstanding performance,Exceeded all my expectations. Great build quality and performs perfectly every time.,2024-01-05,2023-12-13,34,15,24,0.62,148.58,11,12,0.4,Yes
+Vanessa Hill,GB,TV,Home Electronics,1,Poor quality,Do not buy this product. It broke after just a few days of light use.,2024-06-09,2024-05-28,28,36,44,0.82,282.35,12,15,-1.0,No
+Aisha Patel,JP,Mouse,Computers,5,Exceeded my expectations,Best product I have purchased in a long time. It works perfectly right out of the box.,2024-05-03,2024-04-05,34,13,20,0.65,312.12,4,17,1.0,Yes
+Rachel Green,US,Smartphone,Mobile,5,Best purchase ever,This product is absolutely fantastic! Works exactly as described and the quality is top notch.,2024-02-10,2024-01-19,85,31,50,0.62,19.87,14,15,0.96,No
+Daniel Foster,ES,Bluetooth Speaker,Audio,4,5 stars!,Amazing value for the price. The quality is outstanding and it arrived earlier than expected.,2024-09-09,2024-08-11,74,17,32,0.53,282.48,13,15,0.38,Yes
+Quinn Scott,AU,Camera,Photography,1,Not as described,Extremely disappointed. The product looks nothing like the photos. Avoid at all costs.,2024-03-06,2024-03-04,68,27,42,0.64,1410.09,1,13,-0.84,No
+Vanessa Hill,GB,Printer,Computers,1,Poor quality,Do not buy this product. It broke after just a few days of light use.,2024-03-02,2024-02-08,67,29,39,0.74,1036.92,1,15,-1.0,No
+Peter King,JP,Earbuds,Audio,1,Waste of money,Terrible experience from start to finish. The product arrived damaged.,2024-07-04,2024-06-14,34,11,28,0.39,401.65,5,10,-1.0,Yes
+Isabella Harris,FR,Bluetooth Speaker,Audio,1,Poor quality,Do not buy this product. It broke after just a few days of light use.,2024-08-05,2024-07-29,54,44,55,0.8,553.97,7,15,-0.97,Yes
+Noah Hall,AU,Earbuds,Audio,3,It is okay,Not bad overall. Does what it says it will do but the quality could be improved.,2024-12-17,2024-12-09,13,46,54,0.85,1208.09,9,16,0.16,Yes
+Umar Khan,ES,Smartphone,Mobile,5,Highly recommended,This is exactly what I was looking for. Works perfectly and looks great. Very satisfied.,2024-01-05,2023-12-30,54,31,35,0.89,1493.39,14,15,0.94,Yes
+Bob Smith,GB,Monitor,Computers,1,Complete disappointment,Terrible experience from start to finish. The product arrived damaged.,2024-05-08,2024-04-20,73,3,15,0.2,157.47,3,10,-1.0,Yes
+Isabella Harris,AU,Gaming Console,Gaming,4,Best purchase ever,This is exactly what I was looking for. Works perfectly and looks great. Very satisfied.,2024-06-20,2024-06-11,47,23,40,0.57,840.66,13,15,0.41,Yes
+Frank Thomas,IN,Camera,Photography,4,Best purchase ever,Amazing value for the price. The quality is outstanding and it arrived earlier than expected.,2024-12-13,2024-11-23,26,36,54,0.67,978.3,9,15,0.46,Yes
+Emma Wilson,GB,Bluetooth Speaker,Audio,4,Outstanding performance,This is exactly what I was looking for. Works perfectly and looks great. Very satisfied.,2024-08-16,2024-07-18,11,24,43,0.56,436.92,11,15,0.47,Yes
+Karen Lewis,IN,Camera,Photography,1,Awful product,Extremely disappointed. The product looks nothing like the photos. Avoid at all costs.,2024-07-26,2024-06-28,10,5,10,0.5,522.0,6,13,-0.82,Yes
+Noah Hall,GB,Earbuds,Audio,5,Amazing product!,Amazing value for the price. The quality is outstanding and it arrived earlier than expected.,2024-08-15,2024-07-21,47,47,65,0.72,786.19,8,15,0.86,Yes
+David Brown,US,Printer,Computers,5,Absolutely love it!,Best product I have purchased in a long time. It works perfectly right out of the box.,2024-04-30,2024-04-08,33,47,49,0.96,323.75,7,17,0.99,Yes
+David Brown,CA,Router,Networking,5,Very satisfied,Exceeded all my expectations. Great build quality and performs perfectly every time.,2024-01-28,2024-01-27,99,25,41,0.61,1149.84,2,12,1.0,Yes
+Quinn Scott,GB,Laptop,Computers,3,Could be better,Mixed feelings about this one. Some features work well but others are lacking.,2024-04-27,2024-04-19,95,18,32,0.56,943.46,3,13,-0.19,Yes
+Rachel Green,GB,Wireless Headphones,Audio,1,Would not recommend,Terrible experience from start to finish. The product arrived damaged.,2024-08-31,2024-08-16,70,17,34,0.5,672.82,12,10,-0.98,No
+Rachel Green,CA,Keyboard,Computers,4,5 stars!,This is exactly what I was looking for. Works perfectly and looks great. Very satisfied.,2024-09-25,2024-09-04,82,34,43,0.79,1364.3,8,15,0.4,Yes
+Yasmine Carter,GB,Gaming Console,Gaming,1,Terrible experience,Terrible experience from start to finish. The product arrived damaged.,2024-07-30,2024-07-21,20,19,19,1.0,10.14,14,10,-0.87,Yes
+Noah Hall,IN,Tablet,Mobile,5,Very satisfied,Exceeded all my expectations. Great build quality and performs perfectly every time.,2024-01-05,2023-12-13,63,48,63,0.76,456.42,13,12,1.0,Yes
+William Turner,AU,Monitor,Computers,1,Very disappointed,Extremely disappointed. The product looks nothing like the photos. Avoid at all costs.,2024-07-10,2024-07-03,53,35,48,0.73,598.18,3,13,-1.0,No
+Isabella Harris,IN,Smart Watch,Mobile,1,Terrible experience,Very disappointed with this product. Stopped working after just one week of normal use.,2024-08-04,2024-07-14,31,33,52,0.63,1213.29,11,14,-0.83,Yes
+Isabella Harris,JP,Camera,Photography,1,Not as described,Very disappointed with this product. Stopped working after just one week of normal use.,2024-04-03,2024-03-29,38,7,27,0.26,688.46,8,14,-0.97,No
+Isabella Harris,GB,Smart Watch,Mobile,1,Would not recommend,Very disappointed with this product. Stopped working after just one week of normal use.,2024-03-18,2024-03-16,69,1,6,0.17,1458.78,5,14,-0.98,No
+Zach Mitchell,IT,Mouse,Computers,4,Absolutely love it!,Best product I have purchased in a long time. It works perfectly right out of the box.,2024-02-16,2024-02-11,2,31,37,0.84,519.45,5,17,0.63,Yes
+Catherine Lee,MX,Gaming Console,Gaming,1,Very disappointed,Terrible experience from start to finish. The product arrived damaged.,2024-02-11,2024-01-15,97,9,10,0.9,407.09,7,10,-1.0,No
+Henry White,US,Smartphone,Mobile,1,Not as described,Terrible experience from start to finish. The product arrived damaged.,2024-07-14,2024-06-17,2,7,14,0.5,583.35,8,10,-0.84,Yes
+Umar Khan,US,Gaming Console,Gaming,5,Best purchase ever,Exceeded all my expectations. Great build quality and performs perfectly every time.,2024-12-06,2024-11-29,61,24,33,0.73,1404.96,3,12,1.0,Yes
+Umar Khan,DE,Tablet,Mobile,4,Very satisfied,Amazing value for the price. The quality is outstanding and it arrived earlier than expected.,2024-04-11,2024-03-30,7,42,48,0.88,1460.18,4,15,0.57,Yes
+Samuel Adams,IT,Wireless Headphones,Audio,1,Poor quality,Terrible experience from start to finish. The product arrived damaged.,2024-10-26,2024-10-22,51,50,57,0.88,23.31,1,10,-0.83,Yes
+Umar Khan,US,Bluetooth Speaker,Audio,3,Average quality,It is an okay product. Works as expected but nothing special.,2024-03-21,2024-03-05,12,43,62,0.69,514.25,13,11,-0.05,Yes
+Umar Khan,AU,Bluetooth Speaker,Audio,4,Highly recommended,Exceeded all my expectations. Great build quality and performs perfectly every time.,2024-02-24,2024-02-19,63,14,24,0.58,1472.7,13,12,0.32,No
+Peter King,FR,Mouse,Computers,1,Not as described,Very disappointed with this product. Stopped working after just one week of normal use.,2024-12-18,2024-12-05,46,46,50,0.92,383.54,1,14,-0.9,Yes
+Brian Evans,JP,TV,Home Electronics,1,Complete disappointment,This product does not match the description at all. Complete waste of money.,2024-10-17,2024-10-11,70,22,32,0.69,1101.28,5,13,-0.96,Yes
+Umar Khan,ES,Laptop,Computers,1,Save your money,This product does not match the description at all. Complete waste of money.,2024-08-18,2024-08-08,34,34,45,0.76,686.58,13,13,-1.0,No
+Catherine Lee,MX,Mouse,Computers,1,Poor quality,Very disappointed with this product. Stopped working after just one week of normal use.,2024-11-13,2024-10-16,47,49,68,0.72,365.79,12,14,-1.0,No
+David Brown,US,Smart Watch,Mobile,5,Outstanding performance,This is exactly what I was looking for. Works perfectly and looks great. Very satisfied.,2024-10-09,2024-10-04,79,18,28,0.64,620.61,6,15,0.92,Yes
+Umar Khan,AU,Wireless Headphones,Audio,4,Highly recommended,Best product I have purchased in a long time. It works perfectly right out of the box.,2024-01-17,2024-01-10,14,31,37,0.84,157.14,10,17,0.49,No
+Daniel Foster,GB,TV,Home Electronics,4,5 stars!,Exceeded all my expectations. Great build quality and performs perfectly every time.,2024-05-11,2024-05-09,47,14,33,0.42,1079.59,1,12,0.67,No
+William Turner,US,Router,Networking,5,Best purchase ever,This is exactly what I was looking for. Works perfectly and looks great. Very satisfied.,2024-11-23,2024-11-21,47,35,48,0.73,1234.82,13,15,0.89,Yes
+Rachel Green,AU,TV,Home Electronics,1,Very disappointed,Very disappointed with this product. Stopped working after just one week of normal use.,2024-06-04,2024-06-01,28,33,36,0.92,160.83,4,14,-1.0,Yes
+Yasmine Carter,BR,Smart Watch,Mobile,4,Outstanding performance,Best product I have purchased in a long time. It works perfectly right out of the box.,2024-10-18,2024-09-27,23,35,52,0.67,628.63,2,17,0.32,Yes
+Frank Thomas,MX,Keyboard,Computers,3,Acceptable for the price,The product arrived on time and works as described. Build quality is average.,2024-02-23,2024-02-17,24,35,47,0.74,761.99,11,13,0.04,No
+Karen Lewis,JP,Router,Networking,2,Would not recommend,Terrible experience from start to finish. The product arrived damaged.,2024-10-08,2024-09-27,48,26,46,0.57,651.58,12,10,-0.39,Yes
+Olivia Young,AU,Earbuds,Audio,1,Save your money,This product does not match the description at all. Complete waste of money.,2024-07-11,2024-06-16,71,47,55,0.85,546.41,8,13,-1.0,Yes
+Grace Martin,IN,Mouse,Computers,5,Absolutely love it!,Amazing value for the price. The quality is outstanding and it arrived earlier than expected.,2024-11-01,2024-10-31,67,8,17,0.47,19.79,4,15,1.0,Yes
+Liam Robinson,GB,Monitor,Computers,4,Great quality product,Exceeded all my expectations. Great build quality and performs perfectly every time.,2024-09-18,2024-08-31,74,36,40,0.9,150.49,8,12,0.47,Yes
+Daniel Foster,GB,Tablet,Mobile,1,Would not recommend,Extremely disappointed. The product looks nothing like the photos. Avoid at all costs.,2024-05-07,2024-04-29,33,19,21,0.9,860.03,10,13,-0.87,Yes
+Tina Baker,IN,Mouse,Computers,5,Worth every penny,This is exactly what I was looking for. Works perfectly and looks great. Very satisfied.,2024-03-29,2024-03-13,89,44,62,0.71,1231.08,2,15,1.0,Yes
+Noah Hall,DE,Mouse,Computers,1,Awful product,Do not buy this product. It broke after just a few days of light use.,2024-02-10,2024-01-16,8,49,59,0.83,528.42,14,15,-0.96,Yes
+Bob Smith,IN,Printer,Computers,2,Not as described,Extremely disappointed. The product looks nothing like the photos. Avoid at all costs.,2024-01-06,2023-12-16,100,40,52,0.77,90.65,9,13,-0.66,Yes
+Tina Baker,BR,Bluetooth Speaker,Audio,5,Outstanding performance,Best product I have purchased in a long time. It works perfectly right out of the box.,2024-03-19,2024-03-17,87,46,58,0.79,1456.85,13,17,0.85,Yes
+Bob Smith,MX,Smart Watch,Mobile,5,Amazing product!,Amazing value for the price. The quality is outstanding and it arrived earlier than expected.,2024-07-20,2024-07-15,17,21,23,0.91,719.02,12,15,0.98,No
