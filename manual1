@@ -1,0 +1,64 @@
+# -----------------------------------------
+# PRACTICE 4: WEATHER DATA PREPROCESSING
+# -----------------------------------------
+
+# Import libraries
+import pandas as pd
+from sklearn.preprocessing import StandardScaler
+
+# -----------------------------------------
+# STEP 1: LOAD DATASET
+# -----------------------------------------
+data = pd.read_csv("weather_preprocessed.csv")
+
+print("----- ORIGINAL DATA -----")
+print(data.head())
+
+
+# -----------------------------------------
+# STEP 2: REMOVE UNNECESSARY ATTRIBUTES
+# -----------------------------------------
+# Example: remove Wind_Bearing (you can change)
+if "Wind_Bearing" in data.columns:
+    data = data.drop("Wind_Bearing", axis=1)
+
+print("\n----- AFTER REMOVING ATTRIBUTE -----")
+print(data.head())
+
+
+# -----------------------------------------
+# STEP 3: HANDLE MISSING VALUES
+# -----------------------------------------
+data = data.fillna(data.mean(numeric_only=True))
+
+print("\n----- AFTER HANDLING MISSING VALUES -----")
+print(data.head())
+
+
+# -----------------------------------------
+# STEP 4: NORMALIZE / STANDARDIZE
+# -----------------------------------------
+scaler = StandardScaler()
+
+# Separate features and label
+X = data.drop("normalized_label", axis=1)
+y = data["normalized_label"]
+
+X_scaled = scaler.fit_transform(X)
+
+# Convert back to DataFrame
+X_scaled = pd.DataFrame(X_scaled, columns=X.columns)
+
+# Combine with label
+final_data = pd.concat([X_scaled, y], axis=1)
+
+print("\n----- AFTER STANDARDIZATION -----")
+print(final_data.head())
+
+
+# -----------------------------------------
+# STEP 5: SAVE PREPROCESSED DATA
+# -----------------------------------------
+final_data.to_csv("weather_preprocessed_output.csv", index=False)
+
+print("\nData successfully saved as weather_preprocessed_output.csv")
