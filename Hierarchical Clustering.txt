@@ -1,0 +1,9 @@
+from scipy.cluster.hierarchy import linkage, dendrogram
+import matplotlib.pyplot as plt
+
+data = [[1,2],[1,4],[5,6],[6,8]]
+
+Z = linkage(data, method='average')
+
+dendrogram(Z)
+plt.show()

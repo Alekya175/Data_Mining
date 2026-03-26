@@ -1,0 +1,15 @@
+from mlxtend.frequent_patterns import apriori, association_rules
+import pandas as pd
+
+data = {
+    "Milk":[1,1,0,1],
+    "Bread":[1,0,1,1],
+    "Butter":[0,1,1,1]
+}
+
+df = pd.DataFrame(data)
+
+freq = apriori(df, min_support=0.5, use_colnames=True)
+rules = association_rules(freq, metric="confidence", min_threshold=0.6)
+
+print(rules)

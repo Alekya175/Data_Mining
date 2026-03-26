@@ -1,0 +1,92 @@
+# -----------------------------------------
+# PRACTICE 3: STATISTICS + SIMILARITY + CLUSTERING
+# -----------------------------------------
+
+# Import libraries
+import pandas as pd
+import numpy as np
+from sklearn.datasets import load_iris
+from sklearn.cluster import KMeans
+import math
+
+# -----------------------------------------
+# STEP 1: LOAD IRIS DATASET
+# -----------------------------------------
+iris = load_iris()
+
+# Create DataFrame
+df = pd.DataFrame(iris.data, columns=[
+    "Sepal Length",
+    "Sepal Width",
+    "Petal Length",
+    "Petal Width"
+])
+
+print("----- DATASET (FIRST 5 ROWS) -----")
+print(df.head())
+
+
+# -----------------------------------------
+# STEP 2: STATISTICAL DESCRIPTION
+# -----------------------------------------
+print("\n----- STATISTICAL VALUES -----")
+
+print("\nMean:")
+print(df.mean())
+
+print("\nMinimum:")
+print(df.min())
+
+print("\nMaximum:")
+print(df.max())
+
+print("\nStandard Deviation:")
+print(df.std())
+
+
+# -----------------------------------------
+# STEP 3: CLUSTERING (K-MEANS)
+# -----------------------------------------
+kmeans = KMeans(n_clusters=3, random_state=0)
+
+kmeans.fit(df)
+
+print("\n----- CLUSTER RESULTS -----")
+
+print("\nCluster Labels:")
+print(kmeans.labels_)
+
+print("\nCluster Centroids:")
+print(pd.DataFrame(kmeans.cluster_centers_, columns=df.columns))
+
+
+# -----------------------------------------
+# STEP 4: SIMILARITY (EUCLIDEAN DISTANCE)
+# -----------------------------------------
+print("\n----- SIMILARITY (EUCLIDEAN DISTANCE) -----")
+
+# Take two points
+p1 = df.iloc[0]
+p2 = df.iloc[50]
+
+distance = math.sqrt(sum((p1 - p2) ** 2))
+
+print("Distance between record 1 and 51:", distance)
+
+
+# -----------------------------------------
+# STEP 5: DISSIMILARITY EXAMPLE
+# -----------------------------------------
+print("\n----- DISSIMILARITY -----")
+
+p3 = df.iloc[0]
+p4 = df.iloc[140]
+
+distance2 = math.sqrt(sum((p3 - p4) ** 2))
+
+print("Distance between record 1 and 141:", distance2)
+
+
+# -----------------------------------------
+# END
+# -----------------------------------------

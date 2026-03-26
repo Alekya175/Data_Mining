@@ -1,0 +1,23 @@
+from sklearn.tree import DecisionTreeClassifier, export_text
+import pandas as pd
+
+# Sample dataset
+data = {
+    "outlook": ["sunny","sunny","overcast","rainy","rainy"],
+    "humidity": ["high","normal","high","high","normal"],
+    "windy": [False, False, False, True, False],
+    "play": ["no","yes","yes","no","yes"]
+}
+
+df = pd.DataFrame(data)
+
+# Convert categorical to numbers
+df = pd.get_dummies(df)
+
+X = df.drop("play_yes", axis=1)
+y = df["play_yes"]
+
+model = DecisionTreeClassifier(criterion="entropy")
+model.fit(X, y)
+
+print(export_text(model))

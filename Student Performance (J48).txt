@@ -1,0 +1,19 @@
+from sklearn.tree import DecisionTreeClassifier
+import pandas as pd
+
+data = {
+    "attendance": [90,70,60,80],
+    "assignment": [1,1,0,1],
+    "study_hours": [5,3,2,4],
+    "performance": ["Excellent","Good","Average","Good"]
+}
+
+df = pd.DataFrame(data)
+
+X = df[["attendance","assignment","study_hours"]]
+y = df["performance"]
+
+model = DecisionTreeClassifier(criterion="entropy")
+model.fit(X, y)
+
+print("Model trained successfully")

@@ -1,0 +1,46 @@
+%%writefile input.csv
+ID,Date,Status,Value
+1,2023-01-01,Completed,100
+2,2023-01-02,Pending,200
+3,2023-01-03,Completed,150
+
+import pandas as pd
+
+# -------------------------
+# 1. EXTRACT
+# -------------------------
+# Read data from CSV file
+data = pd.read_csv("input.csv")
+
+print("Original Data:")
+print(data)
+
+
+# -------------------------
+# 2. TRANSFORM
+# -------------------------
+# Remove duplicates
+data = data.drop_duplicates()
+
+# Handle missing values
+data = data.fillna(0)
+
+# Convert data types
+if "Date" in data.columns:
+    data["Date"] = pd.to_datetime(data["Date"])
+
+# Apply simple filter (example)
+if "Status" in data.columns:
+    data = data[data["Status"] == "Completed"]
+
+print("\nTransformed Data:")
+print(data)
+
+
+# -------------------------
+# 3. LOAD
+# -------------------------
+# Save cleaned data
+data.to_csv("output.csv", index=False)
+
+print("\nData successfully loaded into output.csv")
